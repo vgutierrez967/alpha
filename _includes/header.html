@@ -1,0 +1,59 @@
+<header class="site-header">
+  <div class="container">
+    <a class="site-title" href="{{ '/' | relative_url }}">Diccionario de Derecho Chileno</a>
+    
+    <!-- Hamburger (mobile only) -->
+    <button class="menu-toggle" aria-label="Menú">
+      ☰
+    </button>
+
+    <!-- Desktop nav -->
+    <nav class="site-nav">
+      <ul>
+        <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
+        <li><a href="{{ '/diccionario/' | relative_url }}">Diccionario</a></li>
+        <li class="nav-item ramas-item">
+          <!-- Desktop: hover shows dropdown -->
+          <a href="{{ '/ramas/' | relative_url }}" class="nav-link">Ramas</a>
+
+          <!-- Dropdown -->
+          <ul id="ramas-dropdown" class="dropdown-menu hidden">
+            <li><a href="{{ '/ramas/constitucional/' | relative_url }}">Constitucional</a></li>
+            <li><a href="{{ '/ramas/civil/' | relative_url }}">Civil</a></li>
+            <li><a href="{{ '/ramas/familia/' | relative_url }}">De Familia</a></li>
+            <li><a href="{{ '/ramas/internacional/' | relative_url }}">Internacional</a></li>
+            <li><a href="{{ '/ramas/laboral/' | relative_url }}">Laboral</a></li>
+            <li><a href="{{ '/ramas/penal/' | relative_url }}">Penal</a></li>
+          </ul>
+        </li>
+        <li><a href="{{ '/latinismos/' | relative_url }}">Latinismos</a></li>
+        <li><a href="{{ '/recursos/' | relative_url }}">Recursos</a></li>
+        <li><a href="{{ '/nosotros/' | relative_url }}">Nosotros</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<!-- Mobile drawer -->
+<div class="mobile-overlay"></div>
+<div id="mobileMenu" class="mobile-drawer">
+  <button id="closeMenu" class="close-btn" aria-label="Cerrar menú">✕</button>
+  <ul>
+    <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
+    <li><a href="{{ '/diccionario/' | relative_url }}">Diccionario</a></li>
+    <li>
+      <button onclick="toggleMobileDropdown('ramasMobile')" class="dropdown-toggle">Ramas ▾</button>
+      <ul id="ramasMobile" class="hidden sublist">
+        <li><a href="{{ '/ramas/constitucional/' | relative_url }}">Constitucional</a></li>
+        <li><a href="{{ '/ramas/civil/' | relative_url }}">Civil</a></li>
+        <li><a href="{{ '/ramas/familia/' | relative_url }}">De Familia</a></li>
+        <li><a href="{{ '/ramas/internacional/' | relative_url }}">Internacional</a></li>
+        <li><a href="{{ '/ramas/laboral/' | relative_url }}">Laboral</a></li>
+        <li><a href="{{ '/ramas/penal/' | relative_url }}">Penal</a></li>
+      </ul>
+    </li>
+    <li><a href="{{ '/latinismos/' | relative_url }}">Latinismos</a></li>
+    <li><a href="{{ '/recursos/' | relative_url }}">Recursos</a></li>
+    <li><a href="{{ '/nosotros/' | relative_url }}">Nosotros</a></li>
+  </ul>
+</div>

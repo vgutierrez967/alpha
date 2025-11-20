@@ -1,0 +1,79 @@
+---
+layout: base
+---
+
+<main class="container" role="main">
+  <article class="lema-card" style="padding:2rem 0;">
+    <header>
+      <h1>{{ page.title }}</h1>
+      <div>
+        {% if page.ramas %}
+          {% for r in page.ramas %}
+            <a class="branch-tag" href="{{ '/ramas/' | append: r | append: '/' | relative_url }}">Derecho {{ r | capitalize }}</a>
+          {% endfor %}
+        {% endif %}
+        {% if page.latin %}
+          <div style="margin-top:0.4rem; color:#6b7280;">(Latín: "{{ page.latin }}")</div>
+        {% endif %}
+      </div>
+    </header>
+
+    {% if page.definiciones %}
+      <section>
+        <h2>Definiciones</h2>
+        <div>
+          {% for d in page.definiciones %}
+            <div class="definition">
+              <div style="display:flex; align-items:flex-start;">
+                <div class="definition-number">
+                  {{ forloop.index }}
+                </div>
+                <div>
+                  {% if d.texto %}
+                    {{ d.texto | default: d | markdownify }}
+                  {% else %}
+                    {{ d | markdownify }}
+                  {% endif %}
+                  {% if d.ejemplos %}
+                    <div class="example">
+                      <strong>Ejemplo{% if d.ejemplos.size > 1 %}s{% endif %}:</strong>
+                      {% for ex in d.ejemplos %}
+                        <p style="margin:0.4rem 0;">{{ ex | markdownify }}</p>
+                      {% endfor %}
+                    </div>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </section>
+    {% endif %}
+
+    <section>
+      <h2>Información adicional</h2>
+      <div style="background:#fff; padding:1rem; border-radius:0.5rem;">
+        {{ content }}
+      </div>
+    </section>
+
+    {% if page.relacionados %}
+      <section>
+        <h2>Términos relacionados</h2>
+        <div class="related-grid">
+          {% for r in page.relacionados %}
+            <a href="{% if r.url %}{{ r.url | relative_url }}{% else %}{{ '/lemas/' | append: r | slugify | append: '/' | relative_url }}{% endif %}" style="display:block; text-decoration:none;">
+              <div style="background:#fff; padding:1rem; border-radius:0.6rem; text-align:center;">
+                <h3 style="color:#1e40af;">{% if r.title %}{{ r.title }}{% else %}{{ r | capitalize }}{% endif %}</h3>
+                {% if r.summary %}
+                  <p style="color:#4b5563;">{{ r.summary }}</p>
+                {% endif %}
+              </div>
+            </a>
+          {% endfor %}
+        </div>
+      </section>
+    {% endif %}
+
+  </article>
+</main>

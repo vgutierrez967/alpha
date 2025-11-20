@@ -1,0 +1,39 @@
+title: "Diccionario de Derecho Chileno"
+description: "Repositorio de lemas del Derecho Chileno e Internacional"
+lang: "es"
+theme: minima
+markdown: kramdown
+baseurl: "alpha"
+word_of_day: Ley
+
+# Collections
+collections:
+  lemas:
+    output: true
+    permalink: /lemas/:title/
+  ramas:
+    output: true
+    permalink: /ramas/:title/
+  latinismos:
+    output: true
+    permalink: /latinismos/:title/
+  recursos:
+    output: true
+    permalink: /recursos/:title/
+
+
+# Optional: keep site timezone for date formatting
+timezone: "America/Santiago"
+
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

@@ -1,0 +1,53 @@
+---
+layout: lema
+title: "Derecho"
+ramas: ["general"]
+latin: "de <em>directus</em>, recto, rígido, alineado."
+
+definiciones:
+### Cantidad ilimitada, ejemplos no necesarios
+  - texto: "<span style='color:aqua;'><em>Obj.</em></span> Conjunto de normas imperativas que regulan la vida en una sociedad determinada."
+    ejemplos:
+      - "Derecho Civil, Derecho Penal, etc."
+  - texto: "<em style='color:aqua;'>Subj.</em> Facultad condedida por el Derecho objetivo a una persona de exigir algo (que otra de, haga o no haga)."
+    ejemplos:
+      - "Derecho a la educación, derecho de acceso a la salud, etc."
+# - texto: "<em style='color:aqua;'>Desc.</em> Definición sin ejemplos"
+
+relacionados:
+### Renderizan siempre al final, fichaje manual
+  - title: "Título 1"
+    url: "/lemas/lema2/"
+    summary: "Definición del tema 1, elección del editor, mantener limitada a 5 o 6 líneas (en la página renderizada)" ### revisar en móvil, aumenta el ancho
+  - title: "Título 2"
+    url: "/lemas/lema3/"
+    summary: "Proin vel lectus eu neque iaculis ultrices eu a neque. Etiam consectetur id arcu id tincidunt. In tincidunt, augue non tristique porttitor."
+  - title: "Título 3"
+    url: "/lemas/lema4/"
+    summary: "Vivamus arcu risus, venenatis eget magna in, ornare ultricies lectus. Aenean ut ipsum vitae risus elementum porta eu id urna. Morbi ut."
+---
+
+<!-- Esta sección es opcional, simple texto en markdown-->
+### Funciones del Derecho en la vida social
+<p style= "text-align: justify">
+
+1. <u>De certeza y seguridad</u>: entrega la confianza de que los demás se comportarán de la manera esperada y prescrita por la norma y que, en caso contrario, el mismo sistema jurídico sancionará al transgresor. <br>
+2. <u>De herramienta del cambio social</u>: el Estado puede, mediante el derecho, generar ciertos cambios con el fin de lograr objetivos sociales en consideración al bien común (redistribución de impuestos, gasto fiscal, ley de 40 horas, etc.). <br>
+3. <u>De resolución de conflictos</u>: se establecen, además de los derechos de las partes de un conflicto, los procedimientos equitativos que permiten hacer valer estos derechos, de modo que ambas partes queden igualmente satisfechas. <br>
+4. <u>De organización del poder político</u>: el derecho debe organizar los poderes del Estado y sus órganos administrativos, limitando el campo de acción de cada uno, garantizando así las libertades individuales ya que se impide el ejercicio abusivo de poder y se facilita el libre ejercicio de los derechos de las personas. </p>
+
+<!-- Ejemplos/inhabilitado
+### **Críticas**
+
+<em>Autor</em> ha señalado que ...  
+Una línea de pensamiento propone ...
+
+### **Sublemas**
+
+- [Sublema 1](/_lemas/subema/)
+- [Sublema 2](/_lemas/sublema-2/)
+- [Sublema 3](/_lemas/sublema-3/)
+
+### **Sección adicional**
+
+Texto correspondiente a la sección adicional, se puede agregar cualquier contenido compatible con markdown: listas, tablas, links, imágenes, video, etc. --> 

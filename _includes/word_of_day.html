@@ -1,0 +1,41 @@
+<section class="word-of-day">
+  {% assign terms = site.lemas | concat: site.ramas | concat: site.latinismos %}
+  {% assign day_of_year = site.time | date: "%j" | plus: 0 %}
+  {% if terms and terms.size > 0 %}
+    {% assign index = day_of_year | modulo: terms.size %}
+    {% assign today_term = terms[index] %}
+
+    <div class="word-box">
+      <h2 class="label">LEMA DEL DÍA</h2>
+      <h3 class="term">
+        {% if today_term.collection == "latinismos" %}
+          <em>“{{ today_term.title }}”</em>
+        {% else %}
+          “{{ today_term.title }}”
+        {% endif %}   <!-- línea agregada tarde-->
+      </h3>
+
+      {% if today_term.definiciones %}
+        <p class="definition">
+          {{ today_term.definiciones[0].texto 
+             | default: today_term.definiciones[0] 
+             | markdownify 
+             | replace: '<a ', '<span ' 
+             | replace: '</a>', '</span>' }}
+        </p>
+      {% endif %}
+
+      <div class="meta">
+        <span class="date">
+          {{ site.time | date: "%d/%m/%Y" }}
+        </span>
+        <a href="{{ today_term.url | relative_url }}" class="details">
+          ver más detalles →
+        </a>
+      </div>
+    </div>
+  {% else %}
+    <p><em>No hay términos cargados aún.</em></p>
+  {% endif %}
+</section>
+
