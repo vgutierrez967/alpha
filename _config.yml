@@ -3,7 +3,8 @@ description: "Repositorio de lemas del Derecho Chileno e Internacional"
 lang: "es"
 theme: minima
 markdown: kramdown
-baseurl: "alpha"
+baseurl: "/alpha"
+url: "https://vgutierrez967.github.io"
 word_of_day: Ley
 
 # Collections

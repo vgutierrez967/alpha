@@ -1,7 +1,7 @@
 ---
 layout: lema
-title: "Lorem ipsum"             ### Palabra o expresión
-ramas: ["tag-1","tag-2"]         ### Ramas, palabra única, separadas por comas
+title: "Incapacidad"             ### Palabra o expresión
+ramas: ["civil","comercial","societario"]         ### Ramas, palabra única, separadas por comas
 latin: "<em>dolorem, ipsum</em>" ### Orígen etimológico, eliminar si no aplica
 
 definiciones:
