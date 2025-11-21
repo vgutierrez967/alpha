@@ -5,27 +5,27 @@ ramas: ["civil","constitucional","penal","comercial"]
 latin: "<em>lex, legis</em>"
 
 definiciones:
-  - texto: "<em style='color:aqua;'>sensu lato.</em> Sinónimo de [legislación](/lemas/legislacion/), comprende la [Constitución](/lemas/constitucion/), leyes propiamente tales, [decretos con jerarquía de ley](/lemas/decretos/), [autos acordados](/lemas/autoacordados/), entre otros."
+  - texto: "<em style='color:aqua;'>sensu lato.</em> Sinónimo de [legislación](/alpha/lemas/legislacion/), comprende la [Constitución](/alpha/lemas/constitucion/), leyes propiamente tales, [decretos con jerarquía de ley](/alpha/lemas/decretos/), [autos acordados](/alpha/lemas/autoacordados/), entre otros."
     ejemplos:
       - "Código de Comercio, DFL 7 Mineduc (2017) <em>Fija Estatutos de la Universidad de Aysen</em>, Circular 449 Minsal <em>instrucciones sobre las garantías explícitas en salud para los beneficiarios de fonasa</em>, etc."
 
-  - texto: "<em style='color:aqua;'>sensu stricto.</em> Norma jurídica que emanan del [poder legislativo](/lemas/poder-legislativo/) siguiendo el proceso establecido en la [Constitución](/lemas/constitucion/)."
+  - texto: "<em style='color:aqua;'>sensu stricto.</em> Norma jurídica que emanan del [poder legislativo](/lemas/poder-legislativo/) siguiendo el proceso establecido en la [Constitución](/alpha/lemas/constitucion/)."
     ejemplos:
       - "Ley N°20.285 Sobre Acceso a la Información Pública, Ley N°21.663 Marco de Ciberseguridad, etc."
 
-  - texto: "<em style='color:aqua;'>C.C. Art. 1°.</em> La ley es una declaración de la voluntad soberana que, manifestada en la forma prescrita por la [Constitución](/lemas/constitucion/), manda, prohíbe o permite."
+  - texto: "<em style='color:aqua;'>C.C. Art. 1°.</em> La ley es una declaración de la voluntad soberana que, manifestada en la forma prescrita por la [Constitución](/alpha/lemas/constitucion/), manda, prohíbe o permite."
   
   - texto: "<em style='color:aqua;'>Planiol.</em> Una regla social obligatoria, establecida en forma permanente por la autoridad pública y sancionada por la fuerza."
 
 relacionados:
   - title: "Contrato"
-    url: "/lemas/contrato/"
+    url: "/alpha/lemas/contrato/"
     summary: "Acto en que una parte se obliga con otra a hacer o no hacer algo..."
   - title: "Sentencia"
-    url: "/lemas/sentencia/"
+    url: "/alpha/lemas/sentencia/"
     summary: "Resolución formal y definitiva que pone fin a un proceso legal"
   - title: "Costumbre"
-    url: "/lemas/costumbre/"
+    url: "/alpha/lemas/costumbre/"
     summary: "Repetición uniforme de un determinado comportamiento colectivo..."
 ---
 
