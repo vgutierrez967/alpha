@@ -5,7 +5,7 @@ ramas: ["civil","constitucional","penal","comercial"]
 latin: "<em>lex, legis</em>"
 
 definiciones:
-  - texto: "<em style='color:aqua;'>sensu lato.</em> Sinónimo de [legislación](/_lemas/legislacion/), comprende la [Constitución](/_lemas/constitucion/), leyes propiamente tales, [decretos con jerarquía de ley](/_lemas/decretos/), [autos acordados](/_lemas/autoacordados/), entre otros."
+  - texto: "<em style='color:aqua;'>sensu lato.</em> Sinónimo de [legislación](/alpha/lemas/legislacion/), comprende la [Constitución](/_lemas/constitucion/), leyes propiamente tales, [decretos con jerarquía de ley](/_lemas/decretos/), [autos acordados](/_lemas/autoacordados/), entre otros."
     ejemplos:
       - "Código de Comercio, DFL 7 Mineduc (2017) <em>Fija Estatutos de la Universidad de Aysen</em>, Circular 449 Minsal <em>instrucciones sobre las garantías explícitas en salud para los beneficiarios de fonasa</em>, etc."
 
