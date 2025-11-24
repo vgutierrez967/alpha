@@ -5,7 +5,8 @@ ramas: ["laboral"]
 #latin: "<em>dolorem, ipsum</em>"
 
 definiciones:
-### Cantidad ilimitada, ejemplos no necesarios
+#
+## Cantidad ilimitada, ejemplos no necesarios
   - texto: "<span style='color:aqua;'><em>pjud.</em></span> Documento escrito por medio del cual el empleador y el trabajador, con ocasión del término del contrato de trabajo, dejan constancia tanto de las obligaciones recíprocas que se encuentran cumplidas como aquellas que se encuentran pendientes. En este último caso se conserva el derecho a reclamarlas con posterioridad."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
 #   ejemplos:
