@@ -12,7 +12,6 @@ definiciones:
 #     - "Ejemplos bajo definición 2"
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición sin ejemplos"
 
-
 relacionados:
 ### Renderizan siempre al final, fichaje manual
   - title: "Autodespido"

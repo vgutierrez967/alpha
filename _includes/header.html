@@ -1,6 +1,14 @@
 <header class="site-header">
-  <div class="container">
-    <a class="site-title" href="{{ '/' | relative_url }}">Diccionario de Derecho Chileno</a>
+  <div class="container" style="display:flex; align-items:center; gap:0.6rem;">
+    <a class="site-title" href="{{ '/' | relative_url }}" style="display:flex; align-items:center; text-decoration:none; color:inherit;">
+      <img src="{{ '/assets/images/Imagologo.png' | relative_url }}" 
+           alt="Diccionario de Derecho Chileno"
+           style="height:40px; width:auto;">
+
+      <span style="font-size:1.4rem; font-weight:600; margin-left:0.4rem;">
+        Diccionario de Derecho Chileno
+      </span>
+    </a>
     
     <!-- Hamburger (mobile only) -->
     <button class="menu-toggle" aria-label="Menú">
