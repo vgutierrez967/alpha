@@ -688,17 +688,19 @@ body.menu-open {
 
 /* Title text next to logo */
 .site-title {
-  font-size: 1.2rem;     /* Your preference */
-  margin-left: 0.5rem;
+  font-size: 1.4rem;     /* Your preference */
+  margin-left: 0.4rem;
 }
 
-/* Hide title text on mobile */
+/* MOBILE HEADER FIX */
 @media (max-width: 640px) {
   .site-header .site-title span {
-    display: none !important;   /* override inline style */
-    visibility: hidden;
+    font-size: 0 !important;   /* hides the text visually */
+    line-height: 0 !important; /* prevents tiny leftover space */
+    margin: 0 !important;      /* remove spacing next to logo */
   }
 }
+
 
 @media (max-width: 640px) {
   .site-logo {
