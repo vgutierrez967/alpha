@@ -18,9 +18,9 @@ definiciones:
 
 relacionados:
 ### Renderizan siempre al final, fichaje manual
-  - title: "Título 1"
+  - title: "Disipador"
     url: "/lemas/lema2/"
-    summary: "Definición del tema 1, elección del editor, mantener limitada a 5 o 6 líneas (en la página renderizada)" ### revisar en móvil, aumenta el ancho
+    summary: "Aquella persona que pone en riesgo su patrimonio" ### revisar en móvil, aumenta el ancho
   - title: "Título 2"
     url: "/lemas/lema3/"
     summary: "Proin vel lectus eu neque iaculis ultrices eu a neque. Etiam consectetur id arcu id tincidunt. In tincidunt, augue non tristique porttitor."
