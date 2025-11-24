@@ -679,3 +679,22 @@ body.menu-open {
   height: auto;
   display: block;
 }
+
+/* Make the logo 2× larger */
+.site-logo {
+  height: 60px;          /* or use 50–60px depending on your original */
+  width: auto;
+}
+
+/* Title text next to logo */
+.site-title {
+  font-size: 1.2rem;     /* Your preference */
+  margin-left: 0.5rem;
+}
+
+/* Hide title text on small screens */
+@media (max-width: 640px) {
+  .site-title {
+    display: none;
+  }
+}
