@@ -692,9 +692,16 @@ body.menu-open {
   margin-left: 0.5rem;
 }
 
-/* Hide title text on small screens */
+/* Hide title text on mobile */
 @media (max-width: 640px) {
-  .site-title {
-    display: none;
+  .site-header .site-title span {
+    display: none !important;   /* override inline style */
+    visibility: hidden;
+  }
+}
+
+@media (max-width: 640px) {
+  .site-logo {
+    height: 60px;  /* smaller logo on mobile */
   }
 }
