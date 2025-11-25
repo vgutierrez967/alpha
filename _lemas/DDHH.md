@@ -13,29 +13,12 @@ definiciones:
 
 relacionados:
 ### Renderizan siempre al final, fichaje manual
-  - title: "Título 1"
-    url: "/lemas/lema2/"
-    summary: "Definición del tema 1, elección del editor, mantener limitada a 5 o 6 líneas (en la página renderizada)" ### revisar en móvil, aumenta el ancho
-  - title: "Título 2"
-    url: "/lemas/lema3/"
-    summary: "Proin vel lectus eu neque iaculis ultrices eu a neque. Etiam consectetur id arcu id tincidunt. In tincidunt, augue non tristique porttitor."
-  - title: "Título 3"
-    url: "/lemas/lema4/"
-    summary: "Vivamus arcu risus, venenatis eget magna in, ornare ultricies lectus. Aenean ut ipsum vitae risus elementum porta eu id urna. Morbi ut."
+  - title: "Derechos Fundamentales"
+    url: "/lemas/DDFF/"
+    summary: "Facultades que le pertenecen a todo individuo de la especie humana por el solo hecho de existir como tal, que se vinculan con su dignidad más esencial y deben ser respetados por todos."
+  - title: "Constitucion"
+    url: "/lemas/constitucion/"
+    summary: "Norma jurídica fundamental y predominante escrita que regula de manera sistemática el Estado, su Gobierno, los derechos esenciales de las personas y que tiene supremacía."
 ---
 
 <!-- Esta sección es opcional, simple texto en markdown-->
-### **Críticas**
-
-<em>Autor</em> ha señalado que ...  
-Una línea de pensamiento propone ...
-
-### **Sublemas**
-
-- [Sublema 1](/_lemas/subema/)
-- [Sublema 2](/_lemas/sublema-2/)
-- [Sublema 3](/_lemas/sublema-3/)
-
-### **Sección adicional**
-
-Texto correspondiente a la sección adicional, se puede agregar cualquier contenido compatible con markdown: listas, tablas, links, imágenes, video, etc.

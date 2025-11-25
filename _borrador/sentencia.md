@@ -1,8 +1,8 @@
 ---
 layout: lema
-title: "Contrato"             ### Palabra o expresión
-ramas: ["civil","comercial","laboral","societario"]         ### Ramas, palabra única, separadas por comas
-latin: "<em>dolorem, ipsum</em>" ### Orígen etimológico, eliminar si no aplica
+title: "Sentencia"
+ramas: ["civil","penal"]
+# latin: "<em>dolorem, ipsum</em>"
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
@@ -14,7 +14,6 @@ definiciones:
     ejemplos:
       - "Ejemplos bajo definición 2"
   - texto: "<em style='color:aqua;'>Desc.</em> Definición sin ejemplos"
-
 
 relacionados:
 ### Renderizan siempre al final, fichaje manual
@@ -28,19 +27,3 @@ relacionados:
     url: "/lemas/lema4/"
     summary: "Vivamus arcu risus, venenatis eget magna in, ornare ultricies lectus. Aenean ut ipsum vitae risus elementum porta eu id urna. Morbi ut."
 ---
-
-<!-- Esta sección es opcional, simple texto en markdown-->
-### **Críticas**
-
-<em>Autor</em> ha señalado que ...  
-Una línea de pensamiento propone ...
-
-### **Sublemas**
-
-- [Contrato individual de trabajo](/_lemas/contrato-individual-de-trabajo/)
-- [Sublema 2](/_lemas/sublema-2/)
-- [Sublema 3](/_lemas/sublema-3/)
-
-### **Sección adicional**
-
-Texto correspondiente a la sección adicional, se puede agregar cualquier contenido compatible con markdown: listas, tablas, links, imágenes, video, etc.

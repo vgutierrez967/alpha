@@ -1,7 +1,7 @@
 ---
 layout: lema
-title: "Muerte presunta"             ### Palabra o expresión
-ramas: ["civil","de familia"]         ### Ramas, palabra única, separadas por comas
+title: "Muerte presunta"             
+ramas: ["civil","de familia"]         
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios

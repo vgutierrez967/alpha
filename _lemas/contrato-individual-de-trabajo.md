@@ -1,17 +1,16 @@
 ---
 layout: lema
-title: "Contrato Individual de Trabajo"
+title: "Contrato individual de trabajo"
 ramas: ["laboral"]
 #latin: "<em>dolorem, ipsum</em>"
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em>pjud.</em></span> Convención por la cual el empleador y el trabajador se obligan recíprocamente, este a prestar servicios personales bajo dependencia y subordinación del empleador, y aquel a pagar por estos servicios una remuneración determinada."
+  - texto: "<span style='color:aqua;'><em>pjud.</em></span> Convención por la cual el [empleador](/alpha/lemas/empleador/) y el [trabajador](/alpha/lemas/trabajador/) se obligan recíprocamente, este a prestar servicios personales bajo dependencia y subordinación del [empleador](/alpha/lemas/empleador/), y aquel a pagar por estos servicios una [remuneración](/alpha/lemas/remuneracion/) determinada."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
 #   ejemplos:
 #     - "Ejemplos bajo definición 2"
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición sin ejemplos"
-
 
 relacionados:
 ### Renderizan siempre al final, fichaje manual

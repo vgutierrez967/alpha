@@ -2,11 +2,10 @@
 layout: lema
 title: "Autodespido"
 ramas: ["laboral"]
-#latin: "<em>dolorem, ipsum</em>"
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em>pjud.</em></span> Derecho que se le concede al trabajador para que este pueda, solo en los casos señalados en la ley, solicitar al tribunal que declare terminado el contrato laboral. Existirá derecho a indemnización cuando el empleador incurra en alguna conducta grave en contra del trabajador."
+  - texto: "<span style='color:aqua;'><em>pjud.</em></span> Derecho que se le concede al [trabajador](/alhpa/lemas/trabajador/) para que este pueda, solo en los casos señalados en la [ley](/alpha/lemas/ley/), solicitar al tribunal que declare terminado el [contrato laboral](/alpha/lemas/contrato-individual-de-trabajo/). Existirá derecho a [indemnización](/alpha/lemas/indemnizacion-laboral/) cuando el [empleador](/alpha/lemas/empleador/) incurra en alguna conducta grave en contra del [trabajador](/alpha/lemas/trabajador/)."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
 #   ejemplos:
 #     - "Ejemplos bajo definición 2"
@@ -17,7 +16,7 @@ relacionados:
 ### Renderizan siempre al final, fichaje manual
   - title: "Finiquito"
     url: "/lemas/finiquito/"
-    summary: "Documento escrito por medio del cual el empleador y el trabajador, con ocasión del término del contrato de trabajo, dejan constancia tanto de las obligaciones recíprocas que se encuentran cumplidas como aquellas que se encuentran pendientes." ### revisar en móvil, aumenta el ancho
+    summary: "Documento escrito por medio del cual el empleador y el trabajador, con ocasión del término del contrato de trabajo, dejan constancia tanto de las obligaciones recíprocas que se encuentran cumplidas como aquellas que se encuentran pendientes."
   - title: "Despido"
     url: "/lemas/despido/"
     summary: "Acto por el cual un empleador pone término de forma unilateral a un contrato laboral por alguna causa establecida en la ley laboral."

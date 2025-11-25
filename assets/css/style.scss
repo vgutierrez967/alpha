@@ -216,7 +216,7 @@ body {
 .word-box .label {
   font-size: 0.95rem;
   font-weight: 600;
-  color: #2563eb; /* blue */
+  color: #0a2a5e; /* blue */
   margin-bottom: 0.5rem;
   letter-spacing: 1px;
 }
@@ -252,7 +252,7 @@ body {
   text-decoration: underline;
 }
 
-
+max-width
 /* feature cards on homepage */
 
 .features {
@@ -264,7 +264,7 @@ body {
   padding: 0 1rem;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 700px) {
   .features {
     grid-template-columns: 1fr; /* stack on small screens */
   }
@@ -285,7 +285,7 @@ body {
 }
 
 .feature-card .icon {
-  color: #1e40af;
+  color: #0a2a5e;
 }
 
 .feature-card .icon svg {
@@ -297,7 +297,7 @@ body {
 
 .feature-card h3 {
   font-size: 1.25rem;
-  color: #1e40af;
+  color: #0a2a5e;
   margin-bottom: 0.5rem;
 }
 
@@ -353,7 +353,7 @@ body {
 
 /* search button as not-emoji */
 .search-btn {
-  background: #facc15; /* yellow background */
+  background: #ffc000; /* yellow background */
   border: none;
   padding: 0.5rem 1rem;
   display: flex;
@@ -484,7 +484,7 @@ body.collection-latinismos .page-title {
 }
 
 /* Show on hover, but only on desktop */
-@media (min-width: 768px) {
+@media (min-width: 780px) {
   .nav-item:hover > .dropdown-menu {
     display: block !important;
   }
@@ -660,7 +660,7 @@ body.menu-open {
 
 .ramas-grid .feature-card h3 a {
   text-decoration: none;
-  color: #1e40af;
+  color: #0a2a5e;
 }
 
 .ramas-grid .feature-card h3 a:hover {
@@ -682,7 +682,7 @@ body.menu-open {
 
 /* Make the logo 2× larger */
 .site-logo {
-  height: 60px;          /* or use 50–60px depending on your original */
+  height: 60px;
   width: auto;
 }
 
@@ -690,10 +690,11 @@ body.menu-open {
 .site-title {
   font-size: 1.4rem;     /* Your preference */
   margin-left: 0.4rem;
+  margin-bottom: -0.8rem;
 }
 
 /* MOBILE HEADER FIX */
-@media (max-width: 640px) {
+@media (max-width: 780px) {
   .site-header .site-title span {
     font-size: 0 !important;   /* hides the text visually */
     line-height: 0 !important; /* prevents tiny leftover space */
@@ -702,7 +703,7 @@ body.menu-open {
 }
 
 
-@media (max-width: 640px) {
+@media (max-width: 780px) {
   .site-logo {
     height: 60px;  /* smaller logo on mobile */
   }
