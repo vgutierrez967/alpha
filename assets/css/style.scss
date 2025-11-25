@@ -263,7 +263,7 @@ body {
   padding: 0 1rem;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 768px) {
   .features {
     grid-template-columns: 1fr; /* stack on small screens */
   }
