@@ -20,13 +20,13 @@ definiciones:
 relacionados:
   - title: "Contrato"
     url: "/lemas/contrato/"
-    summary: "Acto en que una parte se obliga con otra a hacer o no hacer algo..."
+    summary: "Acto jurídico en que dos o más partes manifiestan su consentimiento para crear, regular, modificar, transferir o extinguir relaciones jurídicas patrimoniales."
   - title: "Sentencia"
     url: "/lemas/sentencia/"
     summary: "Resolución formal y definitiva que pone fin a un proceso legal"
   - title: "Costumbre"
     url: "/lemas/costumbre/"
-    summary: "Repetición uniforme de un determinado comportamiento colectivo..."
+    summary: "Repetición uniforme de un determinado comportamiento colectivo, acompañado de la convicción de que se trata de un comportamiento jurídicamente obligatorio"
 ---
 
 ### Críticas a la definición del Código Civil

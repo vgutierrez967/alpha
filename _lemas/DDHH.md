@@ -19,6 +19,9 @@ relacionados:
   - title: "Constitucion"
     url: "/lemas/constitucion/"
     summary: "Norma jurídica fundamental y predominante escrita que regula de manera sistemática el Estado, su Gobierno, los derechos esenciales de las personas y que tiene supremacía."
+  - title: "Derecho natural"
+    url: "/lemas/derecho-natural/"
+    summary: "Doctrina ética y jurídica que postula la existencia de derechos universales, radicados en la naturaleza humana."
 ---
 
 <!-- Esta sección es opcional, simple texto en markdown-->

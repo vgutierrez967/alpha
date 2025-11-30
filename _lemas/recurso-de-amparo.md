@@ -15,7 +15,7 @@ relacionados:
 ### Renderizan siempre al final, fichaje manual
   - title: "Habeas corpus"
     url: "/latinismos/habeas-corpus/"
-    summary: "."
+    summary: "Procedimiento judicial al que puede acudir cualquier persona privada de libertad si estima que lo está ilegalmente, a fin de que un juez verifique la legalidad de la citada privación."
   - title: "Constitución"
     url: "/lemas/constitucion/"
     summary: "Norma jurídica fundamental y predominante escrita que regula de manera sistemática el Estado, su Gobierno, los derechos esenciales de las personas y que tiene supremacía."

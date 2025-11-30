@@ -19,8 +19,8 @@ relacionados:
     summary: "Acto judicial en que se proporciona un vínculo de parentesco." 
   - title: "Estado civil"
     url: "/lemas/estado-civil/"
-    summary: "."
+    summary: "Condición de una persona en relación con su nacimiento, nacionalidad, filiación o matrimonio y que define ciertos derechos y obligaciones."
   - title: "Familia"
     url: "/lemas/familia/"
-    summary: "."
+    summary: "Conjunto de personas unidas por el vínculo de matrimonio, del parentesco o de la adopción."
 ---

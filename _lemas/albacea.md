@@ -13,16 +13,14 @@ relacionados:
 ### Renderizan siempre al final, fichaje manual
   - title: "Testamento"
     url: "/lemas/testamento/"
-    summary: "."
-  - title: "Sucesión"
-    url: "/lemas/sucesion/"
-    summary: "."
+    summary: "Acto más o menos solemne, en que una persona dispone del todo o de una parte de sus bienes para que tenga pleno efecto después de sus días."
+  - title: "Herencia"
+    url: "/lemas/herencia/"
+    summary: "Asignación a título universal, todos los bienes, derechos y obligaciones transmisibles del difunto, o una cuota de estos."
   - title: "Legado"
     url: "/lemas/legado/"
-    summary: "."
+    summary: "Asignación a título particular, ya sea de especies o cuerpos ciertos o de especies indeterminadas de un mismo género."
 ---
-
-<!-- Esta sección es opcional, simple texto en markdown-->
 
 <em>Art. 1272:</em> "No puede ser albacea el menor de edad. <br>
 Ni las personas designadas en los artículos 497 y 498." <br>

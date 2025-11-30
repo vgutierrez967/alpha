@@ -17,6 +17,9 @@ relacionados:
   - title: "Constitución"
     url: "/lemas/constitucion/"
     summary: "Norma jurídica fundamental y predominante escrita que regula de manera sistemática el Estado, su Gobierno, los derechos esenciales de las personas y que tiene supremacía."
+  - title: "Derechos Constitucionales"
+    url: "/lemas/derechos-constitucionales/"
+    summary: "Derechos, especialmente aquellos relacionados a la dignidad humana, incluidos en la Constitución y que tienen un estatus especial en cuanto a garantías."
 ---
 
 <!-- Esta sección es opcional, simple texto en markdown

@@ -5,7 +5,6 @@ theme: minima
 markdown: kramdown
 baseurl: "/alpha"
 url: "https://vgutierrez967.github.io"
-word_of_day: Ley
 
 # Collections
 collections:

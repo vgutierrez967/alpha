@@ -5,8 +5,8 @@ ramas: ["civil"]
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em>C.C.</em></span> [Albacea](/lemas/albacea/)"
-  - texto: "<em style='color:aqua;'>C.C. Art. 1270.</em> Ejecutores testamentarios o albaceas son aquellos a quienes el [testador](/alpha/lemas/testador/) da el encargo de hacer ejecutar sus disposiciones."
+  - texto: "<span style='color:aqua;'><em>C.C.</em></span> [Albacea](/alpha/lemas/albacea/)"
+  - texto: "<em style='color:aqua;'>C.C. Art. 1270.</em> Ejecutores testamentarios o [albaceas](/alpha/lemas/albacea/) son aquellos a quienes el [testador](/alpha/lemas/testador/) da el encargo de hacer ejecutar sus [disposiciones](/alpha/lemas/testamento/)."
 
 relacionados:
 ### Renderizan siempre al final, fichaje manual
@@ -15,8 +15,8 @@ relacionados:
     summary: "Persona que el testador nombra para que cumpla lo que dispone el testamento."
   - title: "Testamento"
     url: "/lemas/testamento/"
-    summary: "Proin vel lectus eu neque iaculis ultrices eu a neque. Etiam consectetur id arcu id tincidunt. In tincidunt, augue non tristique porttitor."
-  - title: "Sucesión por causa de muerte"
-    url: "/lemas/sucesion-por-causa-de-muerte/"
-    summary: "Vivamus arcu risus, venenatis eget magna in, ornare ultricies lectus. Aenean ut ipsum vitae risus elementum porta eu id urna. Morbi ut."
+    summary: "Acto más o menos solemne, en que una persona dispone del todo o de una parte de sus bienes para que tenga pleno efecto después de sus días."
+  - title: "Herencia"
+    url: "/lemas/herencia/"
+    summary: "Asignación a título universal, todos los bienes, derechos y obligaciones transmisibles del difunto, o una cuota de estos."
 ---
