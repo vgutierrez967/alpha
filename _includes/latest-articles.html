@@ -1,0 +1,22 @@
+{% assign latest = site.articulos | sort: "date" | reverse | slice: 0, 3 %}
+
+{% if latest.size > 0 %}
+<section class="latest-articles">
+  <h2>Últimos artículos</h2>
+
+  <ul>
+    {% for a in latest %}
+      <li>
+        <a href="{{ a.url | relative_url }}">{{ a.title }}</a>
+        <small>
+          — {{ a.date | date: "%d/%m/%Y" }}
+          {% if a.author %} · {{ a.author }}{% endif %}
+        </small>
+        {% if a.summary %}
+          <p>{{ a.summary }}</p>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}

@@ -4,6 +4,7 @@ title: Inicio
 ---
 
 {% include word_of_day.html %}
+{% include latest-articles.html %}
 
 <section class="homepage-blurb">
 <center><h2><strong> Diccionario de Derecho USS </strong></h2></center>

@@ -2,7 +2,7 @@
 layout: null
 ---
 [
-  {% assign items = site.lemas | concat: site.latinismos %}
+  {% assign items = site.lemas | concat: site.latinismos | concat: site.articulos %}
   {% for item in items %}
     {
       "title": {{ item.title | jsonify }},

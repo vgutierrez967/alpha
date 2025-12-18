@@ -20,6 +20,9 @@ collections:
   recursos:
     output: true
     permalink: /recursos/:title/
+  articulos:
+    output: true
+    permalink: /articulos/:title/
 
 
 # Optional: keep site timezone for date formatting
