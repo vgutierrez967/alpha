@@ -707,3 +707,59 @@ body.menu-open {
     height: 60px;  /* smaller logo on mobile */
   }
 }
+
+/* FONTS */
+
+.tinos-regular {
+  font-family: "Tinos", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.tinos-bold {
+  font-family: "Tinos", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.tinos-regular-italic {
+  font-family: "Tinos", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.tinos-bold-italic {
+  font-family: "Tinos", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.alfa-slab-one-regular {
+  font-family: "Alfa Slab One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+/* Header fonts Stylesheet */
+
+/* H1 – Alfa Slab One */
+h1 {
+  font-family: "Alfa Slab One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* H2 – Tinos Bold (700) */
+h2 {
+  font-family: "Tinos", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* H3 – Tinos Bold Italic (700 italic) */
+h3 {
+  font-family: "Tinos", serif;
+  font-weight: 700;
+  font-style: italic;
+}
