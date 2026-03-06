@@ -13,7 +13,7 @@ definiciones:
     </div>
     <div>
     <p style="text-align: justify">
-      "El Derecho Constitucional es la rama del Derecho Público que estudia el conjunto de normas jurídicas que se refieren a la organización del Estado, de su Gobierno y de los derechos fundamentales de las personas." </p>
+      "Rama del Derecho Público que estudia el conjunto de normas jurídicas que se refieren a la organización del Estado, de su Gobierno y de los derechos fundamentales de las personas." </p>
     <p style="text-align: right"><em>-Hernán Molina Guaita</em></p>
     </div>
   </div>
