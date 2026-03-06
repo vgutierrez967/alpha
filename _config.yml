@@ -3,8 +3,8 @@ description: "Repositorio de lemas del Derecho Chileno e Internacional"
 lang: "es"
 theme: minima
 markdown: kramdown
-baseurl: "/alpha"
-url: "https://vgutierrez967.github.io"
+baseurl: ""
+url: "https://ddch.cl"
 
 # Collections
 collections:

@@ -14,7 +14,7 @@ definiciones:
     <div>
     <p style="text-align: justify">
       "Regulación jurídica del trabajo subordinado, de las organizaciones colectivas de promoción, defensa y negociación de mejores condiciones de trabajo, y de las instituciones estatales como la Dirección del Trabajo o el ministerio del ramo encargado de fiscalizar el cumplimiento de la legislación laboral, y de la elaboración y aplicación de las políticas del trabajo." </p>
-    <p style="text-align: right"><em>-Sergio Gamonal Contretas</em></p>
+    <p style="text-align: right"><em>-Sergio Gamonal Contreras</em></p>
     </div>
   </div>
 </div>

@@ -11,6 +11,11 @@ body {
   line-height: 1.6;
 }
 
+/* paragraphs throughout the site should be justified for better readability */
+p {
+  text-align: justify;
+}
+
 /* Header defaults are provided by minima; these are gentle overrides */
 
 .container {
