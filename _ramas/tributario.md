@@ -14,7 +14,7 @@ definiciones:
     </div>
     <div>
     <p style="text-align: justify">
-      Conjunto de principios y normas jurídicas que regulan la obtención de ingresos por parte de los entes públicos por medio del tributo. </p>
+      "Conjunto de principios y normas jurídicas que regulan la obtención de ingresos por parte de los entes públicos por medio del tributo." </p>
     <p style="text-align: right"><em>-Rafael Calvo Ortega</em></p>
     </div>
   </div>

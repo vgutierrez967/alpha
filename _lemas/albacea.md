@@ -5,8 +5,8 @@ ramas: ["civil"]
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<em style='color:aqua;'>pjud.</em> Persona que el [testador](/alpha/lemas/testador/) nombra para que cumpla lo que dispone el [testamento](/alpha/lemas/testamento/)."
-  - texto: "<span style='color:aqua;'><em>C.C. Art. 1270.</em></span> Ejecutores testamentarios o albaceas son aquellos a quienes el [testador](/alpha/lemas/testador/) da el encargo de hacer ejecutar sus disposiciones."
+  - texto: "<em style='color:aqua;'> pjud.</em> Persona que el [testador](/lemas/testador/) nombra para que cumpla lo que dispone el [testamento](/lemas/testamento/)."
+  - texto: "<span style='color:aqua;'><em> C.C. art. 1270.</em></span> Ejecutores testamentarios o albaceas son aquellos a quienes el [testador](/lemas/testador/) da el encargo de hacer ejecutar sus disposiciones."
 
 
 relacionados:

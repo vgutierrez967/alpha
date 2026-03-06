@@ -6,7 +6,7 @@ ramas: ["laboral"]
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em>pjud.</em></span> Convención por la cual el [empleador](/alpha/lemas/empleador/) y el [trabajador](/alpha/lemas/trabajador/) se obligan recíprocamente, este a prestar servicios personales bajo dependencia y subordinación del [empleador](/alpha/lemas/empleador/), y aquel a pagar por estos servicios una [remuneración](/alpha/lemas/remuneracion/) determinada."
+  - texto: "<span style='color:aqua;'><em>pjud.</em></span> Convención por la cual el [empleador](/lemas/empleador/) y el [trabajador](/lemas/trabajador/) se obligan recíprocamente, este a prestar servicios personales bajo dependencia y subordinación del [empleador](/lemas/empleador/), y aquel a pagar por estos servicios una [remuneración](/lemas/remuneracion/) determinada."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
 #   ejemplos:
 #     - "Ejemplos bajo definición 2"

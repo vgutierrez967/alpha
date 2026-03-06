@@ -6,7 +6,7 @@ ramas: ["de familia"]
 definiciones:
 #
 ## Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em>pjud.</em></span> Acto judicial mediante el cual se le proporciona a un niño, niña o adolescente un nuevo vínculo de parentesco. Así, se le vincula con nuevos padres y [familia](/alpha/lemas/familia/) que le brindan afecto, protección y cuidados cuando ello no pueda ser proporcionado por la familia de origen."
+  - texto: "<span style='color:aqua;'><em> pjud.</em></span> Acto judicial mediante el cual se le proporciona a un niño, niña o adolescente un nuevo vínculo de parentesco. Así, se le vincula con nuevos padres y [familia](/lemas/familia/) que le brindan afecto, protección y cuidados cuando ello no pueda ser proporcionado por la familia de origen."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
 #   ejemplos:
 #     - "Ejemplos bajo definición 2"

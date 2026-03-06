@@ -6,7 +6,7 @@ latin: "de <em>constitutio</em>, a su vez de <em>constituere</em>, establecer o 
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<em style='color:aqua;'>Molina.</em> La norma jurídica fundamental y predominante escrita que regula de manera sistemática el [Estado](/alpha/lemas/estado/), su [Gobierno](/alpha/lemas/gobierno/), los derechos esenciales de las personas y que tiene supremacía."
+  - texto: "<em style='color:aqua;'> Molina.</em> La norma jurídica fundamental y predominante escrita que regula de manera sistemática el [Estado](/lemas/estado/), su [Gobierno](/lemas/gobierno/), los derechos esenciales de las personas y que tiene supremacía."
 #  - texto: "<span style='color:aqua;'><em>Desc.</em></span> Definición 1"
 #    ejemplos:
 #      - "Ejemplo(s) bajo definición 1"

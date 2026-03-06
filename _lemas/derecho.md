@@ -1,15 +1,15 @@
 ---
 layout: lema
 title: "Derecho"
-ramas: ["general"]
-latin: "de <em>directus</em>, recto, rígido, alineado."
+# ramas: ["general"]
+latin: "de <em>directus</em>: recto, rígido, alineado."
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em>Obj.</em></span> Conjunto de normas imperativas que regulan la vida en una sociedad determinada."
+  - texto: "<span style='color:aqua;'><em> Obj.</em></span> Conjunto de normas imperativas que regulan la vida en una sociedad determinada."
     ejemplos:
-      - "Derecho Civil, Derecho Penal, etc."
-  - texto: "<em style='color:aqua;'>Subj.</em> Facultad condedida por el Derecho objetivo a una persona de exigir algo (que otra de, haga o no haga)."
+      - "[Derecho Civil](/ramas/civil/), [Derecho Penal](/ramas/penal/), etc."
+  - texto: "<em style='color:aqua;'> Subj.</em> Facultad concedida por el Derecho objetivo a una persona de exigir algo (que otra de, haga o no haga)."
     ejemplos:
       - "Derecho a la educación, derecho de acceso a la salud, etc."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición sin ejemplos"

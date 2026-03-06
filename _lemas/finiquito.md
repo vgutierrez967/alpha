@@ -6,7 +6,7 @@ ramas: ["laboral"]
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em>pjud.</em></span> Documento escrito por medio del cual el [empleador](/alpha/lemas/empleador/) y el [trabajador](/alpha/lemas/trabajador/), con ocasión del término del [contrato de trabajo](/alpha/lemas/contrato-individual-de-trabajo/), dejan constancia tanto de las obligaciones recíprocas que se encuentran cumplidas como aquellas que se encuentran pendientes. En este último caso se conserva el derecho a reclamarlas con posterioridad."
+  - texto: "<span style='color:aqua;'><em> pjud.</em></span> Documento escrito por medio del cual el [empleador](/lemas/empleador/) y el [trabajador](/lemas/trabajador/), con ocasión del término del [contrato de trabajo](/lemas/contrato-individual-de-trabajo/), dejan constancia tanto de las obligaciones recíprocas que se encuentran cumplidas como aquellas que se encuentran pendientes. En este último caso se conserva el derecho a reclamarlas con posterioridad."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
 #   ejemplos:
 #     - "Ejemplos bajo definición 2"

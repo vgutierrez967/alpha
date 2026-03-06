@@ -5,17 +5,17 @@ ramas: ["civil","constitucional","penal","comercial"]
 latin: "<em>lex, legis</em>"
 
 definiciones:
-  - texto: "<em style='color:aqua;'>sensu lato.</em> Sinónimo de [legislación](/alpha/lemas/legislacion/), comprende la [Constitución](/alpha/lemas/constitucion/), leyes propiamente tales, [decretos con jerarquía de ley](/alpha/lemas/decretos/), [autos acordados](/alpha/lemas/autoacordados/), entre otros."
+  - texto: "<em style='color:aqua;'> sensu lato.</em> Sinónimo de [legislación](/lemas/legislacion/), comprende la [Constitución](/lemas/constitucion/), leyes propiamente tales, [decretos con jerarquía de ley](/lemas/decretos/), [autos acordados](/lemas/autoacordados/), entre otros."
     ejemplos:
       - "Código de Comercio, DFL 7 Mineduc (2017) <em>Fija Estatutos de la Universidad de Aysen</em>, Circular 449 Minsal <em>instrucciones sobre las garantías explícitas en salud para los beneficiarios de fonasa</em>, etc."
 
-  - texto: "<em style='color:aqua;'>sensu stricto.</em> Norma jurídica que emana del [poder legislativo](/alpha/lemas/poder-legislativo/) siguiendo el proceso establecido en la [Constitución](/alpha/lemas/constitucion/)."
+  - texto: "<em style='color:aqua;'> sensu stricto.</em> Norma jurídica que emana del [poder legislativo](/lemas/poder-legislativo/) siguiendo el proceso establecido en la [Constitución](/lemas/constitucion/)."
     ejemplos:
       - "Ley N°20.285 Sobre Acceso a la Información Pública, Ley N°21.663 Marco de Ciberseguridad, etc."
 
-  - texto: "<em style='color:aqua;'>C.C. Art. 1°.</em> La ley es una declaración de la voluntad soberana que, manifestada en la forma prescrita por la [Constitución](/alpha/lemas/constitucion/), manda, prohíbe o permite."
+  - texto: "<em style='color:aqua;'> C.C. Art. 1°.</em> La ley es una declaración de la voluntad soberana que, manifestada en la forma prescrita por la [Constitución](/lemas/constitucion/), manda, prohíbe o permite."
   
-  - texto: "<em style='color:aqua;'>Planiol.</em> Una regla social obligatoria, establecida en forma permanente por la autoridad pública y sancionada por la fuerza."
+  - texto: "<em style='color:aqua;'> Planiol.</em> Una regla social obligatoria, establecida en forma permanente por la autoridad pública y sancionada por la fuerza."
 
 relacionados:
   - title: "Contrato"
@@ -47,14 +47,14 @@ relacionados:
 ### Sublemas
 
 #### Por contenido y quórum:
-- [Ley Interpretativa de la Constitución](/alpha/lemas/LIC/)
-- [Ley Ordinaria](/alpha/lemas/ley-ordinaria/)
-- [Ley Orgánica Constitucional](/alpha/lemas/LOC/)
-- [Ley de Quórum Calificado](/alpha/lemas/LQC/)
+- [Ley Interpretativa de la Constitución](/lemas/LIC/)
+- [Ley Ordinaria](/lemas/ley-ordinaria/)
+- [Ley Orgánica Constitucional](/lemas/LOC/)
+- [Ley de Quórum Calificado](/lemas/LQC/)
 
 #### Otros sublemas
-- [Ley de presupuestos](/alpha/lemas/ley-de-presupuestos/)
-- [Ley habilitante](/alpha/lemas/ley-habilitante/)
-- [Ley interpretativa](/alpha/lemas/ley-interpretativa/)
-- [Ley marcial](/alpha/lemas/ley-marcial/)
-- [Ley programática](/alpha/lemas/ley-programatica/)
+- [Ley de presupuestos](/lemas/ley-de-presupuestos/)
+- [Ley habilitante](/lemas/ley-habilitante/)
+- [Ley interpretativa](/lemas/ley-interpretativa/)
+- [Ley marcial](/lemas/ley-marcial/)
+- [Ley programática](/lemas/ley-programatica/)

@@ -6,7 +6,7 @@ ramas: ["laboral","administrativo"]
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em>pjud.</em></span> Acto por el cual un [empleador](/alpha/lemas/empleador/) pone término de forma unilateral a un [contrato laboral](/alpha/lemas/contrato-individual-de-trabajo/) por alguna causa establecida en la ley laboral."
+  - texto: "<span style='color:aqua;'><em> pjud.</em></span> Acto por el cual un [empleador](/lemas/empleador/) pone término de forma unilateral a un [contrato laboral](/lemas/contrato-individual-de-trabajo/) por alguna causa establecida en la ley laboral."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
 #   ejemplos:
 #     - "Ejemplos bajo definición 2"
@@ -28,4 +28,4 @@ relacionados:
 
 ### Sublemas
 
-- [Despido injustificado](/alpha/lemas/despido-injustificado/)
+- [Despido injustificado](/lemas/despido-injustificado/)

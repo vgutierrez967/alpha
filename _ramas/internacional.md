@@ -11,7 +11,7 @@ permalink: /ramas/internacional/
     <div style="width:-2rem; height:2rem; background:#ffffff; color:white; border-radius:999px; display:flex; align-items:center; justify-content:center; font-weight:700; margin-right:0.75rem;">
     </div>
     <div>
-      Texto de definición ejemplo.
+      Aún no tenemos una definición para Derecho Internacional, si quieres aportar con una, escríbenos por instagram a  <a href="https://www.instagram.com/ddch.uss">@ddch.uss</a>.
     </div>
   </div>
 </div>

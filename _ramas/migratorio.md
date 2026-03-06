@@ -13,8 +13,7 @@ definiciones:
     </div>
     <div>
     <p style="text-align: justify">
-      "Definición que se muestra en la página." </p>
-    <p style="text-align: right"><em>-Autor</em></p>
+      Aún no tenemos una definición para Derecho Migratorio, si quieres aportar con una, escríbenos por instagram a  <a href="https://www.instagram.com/ddch.uss">@ddch.uss</a>.
     </div>
   </div>
 </div>

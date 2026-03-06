@@ -5,7 +5,7 @@ ramas: ["de familia"]
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em>pjud.</em></span> [Contrato](/alpha/lemas/contrato/) celebrado entre dos personas que comparten un hogar con el propósito de regular los efectos jurídicos derivados de su vida afectiva en común. Tiene carácter estable y permanente, y su [estado civil](/alpha/lemas/estado-civil/) se denomina [conviviente civil](/alpha/lemas/conviviente-civil/)."
+  - texto: "<span style='color:aqua;'><em> pjud.</em></span> [Contrato](/lemas/contrato/) celebrado entre dos personas que comparten un hogar con el propósito de regular los efectos jurídicos derivados de su vida afectiva en común. Tiene carácter estable y permanente, y su [estado civil](/lemas/estado-civil/) se denomina [conviviente civil](/lemas/conviviente-civil/)."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
 #   ejemplos:
 #     - "Ejemplos bajo definición 2"
@@ -15,7 +15,7 @@ relacionados:
 ### Renderizan siempre al final, fichaje manual
   - title: "Matrimonio"
     url: "/lemas/matrimonio/"
-    summary: "." ### revisar en móvil, aumenta el ancho
+    summary: "."
   - title: "Cónyuge"
     url: "/lemas/conyuge/"
     summary: "."
