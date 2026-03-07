@@ -14,16 +14,16 @@
           “{{ today_term.title }}”
         {% endif %}   <!-- línea agregada tarde-->
       </h3>
-
+      
       {% if today_term.definiciones %}
-        {% assign definition_text = today_term.definiciones[0].texto | default: today_term.definiciones[0] %}
-        {% if definition_text %}
-          <p class="definition">
-            {{ definition_text 
-               | markdownify 
-               | replace: '<a ', '<span ' 
-               | replace: '</a>', '</span>' }}
-          </p>
+        {% assign definition_text = today_term.definiciones[0].texto
+          | default: today_term.definiciones[0] | strip %}
+        {% if definition_text != "" %}
+          {% assign rendered = definition_text
+            | markdownify
+            | replace: '<a ', '<span '
+            | replace: '</a>', '</span>' %}
+          {{ rendered | replace_first: '<p>', '<p class="definition">' }}
         {% endif %}
       {% endif %}
 
@@ -40,4 +40,3 @@
     <p><em>No hay términos cargados aún.</em></p>
   {% endif %}
 </section>
-
