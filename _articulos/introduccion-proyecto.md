@@ -15,4 +15,4 @@ El espíritu de este proyecto es similar al de la Comisión Lenguaje Claro del P
 
 ## ¿Cómo formar parte del diccionario?
 
-Si deseas publicar un artículo, reseña o columna; aportar con definiciones, ejemplos, curiosidades o datos; o simplemente pedir que agreguemos un término, puedes escribirnos al correo [contacto.ddch@gmail.com](mailto:contacto.ddch@gmail.com) o a través de Instagram [@ddch.uss](https://www.instagram.com/ddch.uss).
+Si deseas publicar un artículo, reseña o columna; aportar con definiciones, ejemplos, curiosidades o datos; o simplemente pedir que agreguemos un término, puedes escribirnos al correo [contacto@ddch.cl](mailto:contacto@ddch.cl) o a través de Instagram [@ddch.uss](https://www.instagram.com/ddch.uss).

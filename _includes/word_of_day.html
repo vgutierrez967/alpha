@@ -16,13 +16,15 @@
       </h3>
 
       {% if today_term.definiciones %}
-        <p class="definition">
-          {{ today_term.definiciones[0].texto 
-             | default: today_term.definiciones[0] 
-             | markdownify 
-             | replace: '<a ', '<span ' 
-             | replace: '</a>', '</span>' }}
-        </p>
+        {% assign definition_text = today_term.definiciones[0].texto | default: today_term.definiciones[0] %}
+        {% if definition_text %}
+          <p class="definition">
+            {{ definition_text 
+               | markdownify 
+               | replace: '<a ', '<span ' 
+               | replace: '</a>', '</span>' }}
+          </p>
+        {% endif %}
       {% endif %}
 
       <div class="meta">

@@ -13,5 +13,5 @@ permalink: /nosotros/
 
 ## Contacto
 
-- Email: contacto.ddch@gmail.com  
+- Email: contacto@ddch.cl
 - Instagram: [@ddch.uss](https://www.instagram.com/ddch.uss)
