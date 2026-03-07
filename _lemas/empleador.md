@@ -6,7 +6,7 @@ latin: "de <em>implicare</em> implicar, atar, envolver; luego del francés <em>e
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em> C.T.</em></span> La [persona natural](/lemas/persona-natural/) o [jurídica](/lemas/persona-juridica/) que utiliza los servicios intelectuales o materiales de una o más personas en virtud de un [contrato de trabajo](/lemas/contrato-individual-de-trabajo/)"
+  - texto: "<span style='color:aqua;'><em><abbr title=\"Código del Trabajo art. 3.o\">C.T.</abbr></em></span> La [persona natural](/lemas/persona-natural/) o [jurídica](/lemas/persona-juridica/) que utiliza los servicios intelectuales o materiales de una o más personas en virtud de un [contrato de trabajo](/lemas/contrato-individual-de-trabajo/)"
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
 #   ejemplos:
 #     - "Ejemplos bajo definición 2"

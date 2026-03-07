@@ -6,7 +6,7 @@ latin: "de <em>implicare</em> implicar, atar, envolver; luego del francés <em>e
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: " <span style='color:aqua;'><em> C.T.</em></span> Toda organización de medios personales, materiales e inmateriales, ordenados bajo la dirección de un [empleador](/lemas/empleador/), para el logro de fines económicos, sociales, culturales o benéficos, dotada de una individualidad legal determinada."
+  - texto: " <span style='color:aqua;'><em><abbr title=\"Código del Trabajo art. 3.o b)\">C.T.</abbr></em></span> Toda organización de medios personales, materiales e inmateriales, ordenados bajo la dirección de un [empleador](/lemas/empleador/), para el logro de fines económicos, sociales, culturales o benéficos, dotada de una individualidad legal determinada."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
 #   ejemplos:
 #     - "Ejemplos bajo definición 2"

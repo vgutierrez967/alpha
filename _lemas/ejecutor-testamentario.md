@@ -5,8 +5,8 @@ ramas: ["civil"]
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em> C.C.</em></span> [Albacea](/lemas/albacea/)"
-  - texto: "<em style='color:aqua;'> C.C. Art. 1270.</em> Ejecutores testamentarios o [albaceas](/lemas/albacea/) son aquellos a quienes el [testador](/lemas/testador/) da el encargo de hacer ejecutar sus [disposiciones](/lemas/testamento/)."
+  - texto: "<span style='color:aqua;'><em><abbr title=\"Código Civil\">C.C.</abbr></em></span> [Albacea](/lemas/albacea/)"
+  - texto: "<em style='color:aqua;'><abbr title=\"Código Civil art. 1270\">C.C.</abbr></em> Ejecutores testamentarios o [albaceas](/lemas/albacea/) son aquellos a quienes el [testador](/lemas/testador/) da el encargo de hacer ejecutar sus [disposiciones](/lemas/testamento/)."
 
 relacionados:
 ### Renderizan siempre al final, fichaje manual

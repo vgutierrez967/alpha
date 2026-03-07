@@ -7,15 +7,15 @@ latin: "<em>lex, legis</em>"
 definiciones:
   - texto: "<em style='color:aqua;'> sensu lato.</em> Sinónimo de [legislación](/lemas/legislacion/), comprende la [Constitución](/lemas/constitucion/), leyes propiamente tales, [decretos con jerarquía de ley](/lemas/decretos/), [autos acordados](/lemas/autoacordados/), entre otros."
     ejemplos:
-      - "Código de Comercio, DFL 7 Mineduc (2017) <em>Fija Estatutos de la Universidad de Aysen</em>, Circular 449 Minsal <em>instrucciones sobre las garantías explícitas en salud para los beneficiarios de fonasa</em>, etc."
+      - "Código de Comercio, <span title=\"Fija Estatutos de la Universidad de Aysen\">DFL 7 Mineduc (2017)</span>, <span title=\"Instrucciones sobre las garantías explícitas en salud para los beneficiarios de fonasa\">Circular 449 Minsal, etc."
 
   - texto: "<em style='color:aqua;'> sensu stricto.</em> Norma jurídica que emana del [poder legislativo](/lemas/poder-legislativo/) siguiendo el proceso establecido en la [Constitución](/lemas/constitucion/)."
     ejemplos:
       - "Ley N°20.285 Sobre Acceso a la Información Pública, Ley N°21.663 Marco de Ciberseguridad, etc."
 
-  - texto: "<em style='color:aqua;'> C.C. Art. 1°.</em> La ley es una declaración de la voluntad soberana que, manifestada en la forma prescrita por la [Constitución](/lemas/constitucion/), manda, prohíbe o permite."
+  - texto: "<em style='color:aqua;'><abbr title=\"Código Civil art. 1\">C.C.</abbr></em> La ley es una declaración de la voluntad soberana que, manifestada en la forma prescrita por la [Constitución](/lemas/constitucion/), manda, prohíbe o permite."
   
-  - texto: "<em style='color:aqua;'> Planiol.</em> Una regla social obligatoria, establecida en forma permanente por la autoridad pública y sancionada por la fuerza."
+  - texto: "<em style='color:aqua;'><abbr title=\"Marcel Planiol\">Planiol.</abbr></em> Una regla social obligatoria, establecida en forma permanente por la autoridad pública y sancionada por la fuerza."
 
 relacionados:
   - title: "Contrato"

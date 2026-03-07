@@ -6,7 +6,7 @@ latin: "de <em>solidus</em>, moneda de oro sólida acuñada por el emperador Con
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em> C.T.</em></span> Estipendio obligatorio y fijo, en dinero, pagado por períodos iguales, determinados en el [contrato](/lemas/contrato-individual-de-trabajo/), que recibe el [trabajador](/lemas/trabajador/) por la prestación de sus servicios en una [jornada ordinaria de trabajo](/lemas/jornada-de-trabajo/)."
+  - texto: "<span style='color:aqua;'><em><abbr title=\"Código del Trabajo art. 42 a)\">C.T.</abbr></em></span> Estipendio obligatorio y fijo, en dinero, pagado por períodos iguales, determinados en el [contrato](/lemas/contrato-individual-de-trabajo/), que recibe el [trabajador](/lemas/trabajador/) por la prestación de sus servicios en una [jornada ordinaria de trabajo](/lemas/jornada-de-trabajo/)."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
 #   ejemplos:
 #     - "Ejemplos bajo definición 2"
@@ -17,7 +17,7 @@ relacionados:
 ### Renderizan siempre al final, fichaje manual
   - title: "Contrato individual de trabajo"
     url: "/lemas/contrato-individual-de-trabajo/"
-    summary: "Definición del tema 1, elección del editor, mantener limitada a 5 o 6 líneas (en la página renderizada)"
+    summary: "Convención por la cual el empleador y el trabajador se obligan recíprocamente, este a prestar servicios personales bajo dependencia y subordinación del empleador, y aquel a pagar por estos servicios una remuneración determinada"
   - title: "Remuneración"
     url: "/lemas/remuneracion/"
     summary: "Las contraprestaciones en dinero y las adicionales en especie avaluables en dinero que debe percibir el trabajador del empleador por causa del contrato de trabajo"

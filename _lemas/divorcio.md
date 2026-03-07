@@ -2,11 +2,12 @@
 layout: lema
 title: "Divorcio"
 ramas: ["de familia"]
+latin: "de <em>divortium</em>: separación, ruptura"
 
 definiciones:
 #
 ## Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em> pjud.</em></span> Término o fin del [vínculo matrimonial](/lemas/matrimonio/) decretado por [sentencia judicial](/lemas/sentencia/)."
+  - texto: "<span style='color:aqua;'><em><abbr title=\"Comisión Lenguaje Claro\">pjud.</abbr></em></span> Término o fin del [vínculo matrimonial](/lemas/matrimonio/) decretado por [sentencia judicial](/lemas/sentencia/)."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
 #   ejemplos:
 #     - "Ejemplos bajo definición 2"

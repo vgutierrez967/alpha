@@ -5,7 +5,7 @@ ramas: ["laboral"]
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em> pjud.</em></span> Derecho que se le concede al [trabajador](/lemas/trabajador/) para que este pueda, solo en los casos señalados en la [ley](/lemas/ley/), solicitar al tribunal que declare terminado el [contrato laboral](/lemas/contrato-individual-de-trabajo/). Existirá derecho a [indemnización](/lemas/indemnizacion-laboral/) cuando el [empleador](/lemas/empleador/) incurra en alguna conducta grave en contra del [trabajador](/lemas/trabajador/)."
+  - texto: "<span style='color:aqua;'><em><abbr title=\"Comisión Lenguaje Claro\">pjud.</abbr></em></span> Derecho que se le concede al [trabajador](/lemas/trabajador/) para que este pueda, solo en los casos señalados en la [ley](/lemas/ley/), solicitar al tribunal que declare terminado el [contrato laboral](/lemas/contrato-individual-de-trabajo/). Existirá derecho a [indemnización](/lemas/indemnizacion-laboral/) cuando el [empleador](/lemas/empleador/) incurra en alguna conducta grave en contra del [trabajador](/lemas/trabajador/)."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
 #   ejemplos:
 #     - "Ejemplos bajo definición 2"

@@ -6,10 +6,10 @@ latin: "de <em>directus</em>: recto, rígido, alineado."
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em> Obj.</em></span> Conjunto de normas imperativas que regulan la vida en una sociedad determinada."
+  - texto: "<span style='color:aqua;'><em><abbr title=\"en sentido objetivo\">Obj.</abbr></em></span> Conjunto de normas imperativas que regulan la vida en una sociedad determinada."
     ejemplos:
       - "[Derecho Civil](/ramas/civil/), [Derecho Penal](/ramas/penal/), etc."
-  - texto: "<em style='color:aqua;'> Subj.</em> Facultad concedida por el Derecho objetivo a una persona de exigir algo (que otra de, haga o no haga)."
+  - texto: "<em style='color:aqua;'><abbr title=\"en sentido subjetivo\">Subj.</abbr></em> Facultad concedida por el Derecho objetivo a una persona de exigir algo (que otra de, haga o no haga)."
     ejemplos:
       - "Derecho a la educación, derecho de acceso a la salud, etc."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición sin ejemplos"

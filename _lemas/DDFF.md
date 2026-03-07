@@ -5,7 +5,7 @@ ramas: ["constitucional","internacional","migratorio","penal"]
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em> Tórtora.</em></span> Aquellas facultades o prerrogativas que le pertenecen a todo individuo de la especie humana por el solo hecho de existir como tal, que se vinculan con su dignidad más esencial, y que aunque no cuenten con declaración positiva estatal, deben ser respetados por todos aquellos que de alguna manera se relacionen directa o indirectamente con el titular, incluido el propio Estado."
+  - texto: "<span style='color:aqua;'><em><abbr title=\"Hugo Tórtora Aravena\">Tórtora.</abbr></em></span> Aquellas facultades o prerrogativas que le pertenecen a todo individuo de la especie humana por el solo hecho de existir como tal, que se vinculan con su dignidad más esencial, y que aunque no cuenten con declaración positiva estatal, deben ser respetados por todos aquellos que de alguna manera se relacionen directa o indirectamente con el titular, incluido el propio [Estado](/lemas/estado/)."
 ###  - texto: "<em style='color:aqua;'>Desc.</em> Definición sin ejemplos"
 
 relacionados:

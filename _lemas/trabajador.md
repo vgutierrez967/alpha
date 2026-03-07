@@ -6,7 +6,7 @@ latin: "de <em>tripaliare</em>, torturar, en referencia al <em>tripalium</em>, u
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: " <span style='color:aqua;'><em> C.T.</em></span> Toda [persona natural](/lemas/persona-natural) que preste servicios personales intelectuales o materiales, bajo [dependencia](/lemas/dependencia/) o [subordinación](/lemas/subordinación/), y en virtud de un [contrato de trabajo](/lemas/contrato-individual-de-trabajo)."
+  - texto: " <span style='color:aqua;'><em><abbr title=\"Código del Trabajo art. 3.o b)\">C.T.</abbr></em></span> Toda [persona natural](/lemas/persona-natural) que preste servicios personales intelectuales o materiales, bajo [dependencia](/lemas/dependencia/) o [subordinación](/lemas/subordinación/), y en virtud de un [contrato de trabajo](/lemas/contrato-individual-de-trabajo)."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
 #   ejemplos:
 #     - "Ejemplos bajo definición 2"

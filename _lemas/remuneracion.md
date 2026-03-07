@@ -17,7 +17,7 @@ relacionados:
 ### Renderizan siempre al final, fichaje manual
   - title: "Contrato individual de trabajo"
     url: "/lemas/contrato-individual-de-trabajo/"
-    summary: "Definición del tema 1, elección del editor, mantener limitada a 5 o 6 líneas (en la página renderizada)"
+    summary: "Convención por la cual el empleador y el trabajador se obligan recíprocamente, este a prestar servicios personales bajo dependencia y subordinación del empleador, y aquel a pagar por estos servicios una remuneración determinada."
   - title: "Sueldo"
     url: "/lemas/sueldo/"
     summary: "Estipendio obligatorio y fijo, en dinero, que recibe el trabajador por la prestación de sus servicios en una jornada ordinaria de trabajo."
@@ -47,4 +47,4 @@ relacionados:
 
 ## Tipos de remuneración
 ### En dinero o especie
-De acuerdo con el art. 54 del <abbr title="Código del Trabajo">C.T.</abbr> las remuneraciones "se pagarán en moneda de curso legal" y solo tendrán carácter adicional o complementaria de las remuneraciones en dinero, de acuerdo a lo que establece <span title="Deberán señalarse también, en su caso, los beneficios adicionales que suministrará el empleador en forma de casa habitación, luz, combustible, alimento u otras prestaciones en especie o servicios"> el inciso segundo del art. 10</span>.
+De acuerdo con el art. 54 del <span title="Código del Trabajo">C.T.</span> las remuneraciones "se pagarán en moneda de curso legal" y solo tendrán carácter adicional o complementaria de las remuneraciones en dinero, de acuerdo a lo que establece <abbr title="Deberán señalarse también, en su caso, los beneficios adicionales que suministrará el empleador en forma de casa habitación, luz, combustible, alimento u otras prestaciones en especie o servicios"> el inciso segundo del art. 10</abbr>.

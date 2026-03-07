@@ -5,11 +5,11 @@ ramas: ["internacional","constitucional"]
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em> Viena.</em></span> Acuerdo internacional celebrado por escrito entre [Estados](/lemas/estado/) y regido por el [Derecho Internacional](/ramas/internacional), sea que conste en un instrumento único o en dos o más instrumentos conexos y cualquiera que sea su denominación particular."
+  - texto: "<span style='color:aqua;'><em><abbr title=\"Convención de Viena sobre el Derecho de los Tratados\">Viena.</abbr></em></span> Acuerdo internacional celebrado por escrito entre [Estados](/lemas/estado/) y regido por el [Derecho Internacional](/ramas/internacional), sea que conste en un instrumento único o en dos o más instrumentos conexos y cualquiera que sea su denominación particular."
 
-  - texto: "<em style='color:aqua;'>Const.</em> Acto jurídico bilateral, celebrado entre sujetos de [Derecho Internacional](/ramas/internacional), y regido por éste, que genera derechos y obligaciones recíprocos, y cuya aprobación interna puede ser objeto de un control preventivo de constitucionalidad."
+  - texto: "<em style='color:aqua;'><abbr title=\"referencia perdida (!)\">Const.</abbr></em> Acto jurídico bilateral, celebrado entre sujetos de [Derecho Internacional](/ramas/internacional), y regido por éste, que genera derechos y obligaciones recíprocos, y cuya aprobación interna puede ser objeto de un control preventivo de constitucionalidad."
 
-  - texto: "<em style='color:aqua;'>Benadava.</em> Acuerdo internacional celebrado generalmente entre [Estados](/lemas/estado/), regidos por el [Derecho Internacional](/ramas/internacional) y destinado a producir efectos jurídicos."
+  - texto: "<em style='color:aqua;'><abbr title=\"Santiago Benadava Cattan\">Benadava.</abbr></em> Acuerdo internacional celebrado generalmente entre [Estados](/lemas/estado/), regidos por el [Derecho Internacional](/ramas/internacional) y destinado a producir efectos jurídicos."
 
 
 relacionados:
