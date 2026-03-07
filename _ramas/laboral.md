@@ -19,14 +19,13 @@ definiciones:
   </div>
 </div>
 
-<p>A su vez, el derecho del trabajo se estructura en:
+<h2>El Derecho del Trabajo se estructura en</h2>
   <ul>
-  <li>[Derecho individual del trabajo](/lemas/derecho-individual-del-trabajo/): Regula las relaciones laborales individuales.</li>
-  <li>[Derecho colectivo del trabajo](/lemas/derecho-colectivo-del-trabajo/): Regula las relaciones colectivas, destacando lo relativo a derecho sindical y procedimientos de negociación colectiva.</li>
-  <li>[Derecho administrativo del trabajo](/lemas/derecho-administrativo-del-trabajo/): Estudia la normativa que regula la actividad fiscalizadora del cumplimiento de la legislación laboral (Dirección del Trabajo).</li>
-  <li>[Derecho de la seguridad social](/lemas/derecho-de-la-seguridad-social): Principios y normas que regulan la administración y gestión del sistema de cobertura de los estados de necesidad, la constitución y funcionamiento de estos sistemas.</li>
+  <li><a href="/lemas/derecho-individual-del-trabajo/">Derecho individual del trabajo</a>: Regula las relaciones laborales individuales.</li>
+  <li><a href="/lemas/derecho-colectivo-del-trabajo/">Derecho colectivo del trabajo</a>: Regula las relaciones colectivas, destacando lo relativo a derecho sindical y procedimientos de negociación colectiva.</li>
+  <li><a href="/lemas/derecho-administrativo-del-trabajo/">Derecho administrativo del trabajo</a>: Estudia la normativa que regula la actividad fiscalizadora del cumplimiento de la legislación laboral (Dirección del Trabajo).</li>
+  <li><a href="/lemas/derecho-de-la-seguridad-social/">Derecho de la seguridad social</a>: Principios y normas que regulan la administración y gestión del sistema de cobertura de los estados de necesidad, la constitución y funcionamiento de estos sistemas.</li>
   </ul>
-</p>
 
 ### Lemas pertenecientes a esta rama
 

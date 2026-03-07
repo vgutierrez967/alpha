@@ -47,4 +47,4 @@ relacionados:
 
 ## Tipos de remuneración
 ### En dinero o especie
-De acuerdo con el art. 54 del <abbr title="Código del Trabajo">C.T.</abbr> las remuneraciones en especie solo pueden tener carácter adicional o complementaria de las remuneraciones en dinero
+De acuerdo con el art. 54 del <abbr title="Código del Trabajo">C.T.</abbr> las remuneraciones "se pagarán en moneda de curso legal" y solo tendrán carácter adicional o complementaria de las remuneraciones en dinero, de acuerdo a lo que establece <span title="Deberán señalarse también, en su caso, los beneficios adicionales que suministrará el empleador en forma de casa habitación, luz, combustible, alimento u otras prestaciones en especie o servicios"> el inciso segundo del art. 10</span>.
