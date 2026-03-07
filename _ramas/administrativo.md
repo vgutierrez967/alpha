@@ -2,6 +2,8 @@
 layout: page
 title: "Derecho Administrativo"
 permalink: /ramas/administrativo/
+definiciones:
+  - texto: "Rama del derecho que estudia la organización y funcionamiento de las administraciones públicas, sus relaciones con los ciudadanos, así como el sistema normativo que las rige y las garantías jurisdiccionales correspondientes."
 ---
 
 
@@ -11,7 +13,7 @@ permalink: /ramas/administrativo/
     <div style="width:-2rem; height:2rem; background:#ffffff; color:white; border-radius:999px; display:flex; align-items:center; justify-content:center; font-weight:700; margin-right:0.75rem;">
     </div>
     <div>
-      Aún no tenemos una definición para Derecho Administrativo, si quieres aportar con una, escríbenos por instagram a  <a href="https://www.instagram.com/ddch.uss">@ddch.uss</a> .
+      Rama del derecho que estudia la organización y funcionamiento de las administraciones públicas, sus relaciones con los ciudadanos, así como el sistema normativo que las rige y las garantías jurisdiccionales correspondientes (DPEJ).
     </div>
   </div>
 </div>

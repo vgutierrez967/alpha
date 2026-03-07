@@ -6,7 +6,7 @@ ramas: ["constitucional","internacional","migratorio","penal"]
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
   - texto: "<span style='color:aqua;'><em><abbr title=\"Jesús María Casal\">Casal.</abbr></em></span> En sentido amplio, los derechos humanos son derechos inherentes a la persona que se derivan de la dignidad humana y resultan fundamentales en un determinado estadio de evolución de la humanidad, por lo que reclaman su protección jurídica."
-  - texto: "<em style='color:aqua;'> Fernando Savater.</em> Defendían al individuo contra el absolutismo tribal, marcaban los límites infranqueables de cualquier poder estatal sobre los ciudadanos e inventaban una nueva fórmula política para que los socios de una comunidad recibiesen de ella la potenciación y protección de su individualidad."
+  - texto: "<em style='color:aqua;'><abbr title=\"Fernando Savater\">Savater.</abbr></em> Defendían al individuo contra el absolutismo tribal, marcaban los límites infranqueables de cualquier poder estatal sobre los ciudadanos e inventaban una nueva fórmula política para que los socios de una comunidad recibiesen de ella la potenciación y protección de su individualidad."
 ### Añadir más
 ###  - texto: "<em style='color:aqua;'>Desc.</em> Definición sin ejemplos"
 
