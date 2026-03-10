@@ -16,7 +16,7 @@ relacionados:
 ### Renderizan siempre al final, fichaje manual
   - title: "Empleador"
     url: "/lemas/empleador/"
-    summary: "la persona natural o jurídica que utiliza los servicios intelectuales o materiales de una o más personas en virtud de un contrato de trabajo."
+    summary: "La persona natural o jurídica que utiliza los servicios intelectuales o materiales de una o más personas en virtud de un contrato de trabajo."
 
   - title: "Contrato individual de trabajo"
     url: "/lemas/contrato-individual-de-trabajo/"

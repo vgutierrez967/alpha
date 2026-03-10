@@ -18,13 +18,22 @@ relacionados:
   - title: "Contrato individual de trabajo"
     url: "/lemas/contrato-individual-de-trabajo/"
     summary: "Convención por la cual el empleador y el trabajador se obligan recíprocamente, este a prestar servicios personales bajo dependencia y subordinación del empleador, y aquel a pagar por estos servicios una remuneración determinada"
+
   - title: "Remuneración"
     url: "/lemas/remuneracion/"
     summary: "Las contraprestaciones en dinero y las adicionales en especie avaluables en dinero que debe percibir el trabajador del empleador por causa del contrato de trabajo"
+    
   - title: "Jornada de trabajo"
     url: "/lemas/jornada-de-trabajo/"
     summary: "Tiempo durante el cual el trabajador debe prestar efectivamente sus servicios en conformidad al contrato."
 ---
+
+## Características
+
++ Fijeza: el monto (o las bases que sirvan para determinarlo) debe estar establecido concretamente en el contrato de trabajo.
++ Periodicidad: Debe pagarse en períodos iguales, no tiene caracter de esporádico.
++ Contractualidad: Su monto es fijado por el acuerdo de voluntades, no por mandato legislativo, sin perjuicio de que la ley establezca el mínimo a pagar.
++ Carácter pecuniario: Es una prestación en dinero, sin perjuicio que también constituya sueldo los beneficios adicionales que suministra el empleador.
 
 <!-- Esta sección es opcional, simple texto en markdown
 ### **Críticas**

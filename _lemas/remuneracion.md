@@ -18,9 +18,11 @@ relacionados:
   - title: "Contrato individual de trabajo"
     url: "/lemas/contrato-individual-de-trabajo/"
     summary: "Convención por la cual el empleador y el trabajador se obligan recíprocamente, este a prestar servicios personales bajo dependencia y subordinación del empleador, y aquel a pagar por estos servicios una remuneración determinada."
+
   - title: "Sueldo"
     url: "/lemas/sueldo/"
     summary: "Estipendio obligatorio y fijo, en dinero, que recibe el trabajador por la prestación de sus servicios en una jornada ordinaria de trabajo."
+
   - title: "Jornada de trabajo"
     url: "/lemas/jornada-de-trabajo/"
     summary: "Tiempo durante el cual el trabajador debe prestar efectivamente sus servicios en conformidad al contrato."
@@ -48,3 +50,12 @@ relacionados:
 ## Tipos de remuneración
 ### En dinero o especie
 De acuerdo con el art. 54 del <span title="Código del Trabajo">C.T.</span> las remuneraciones "se pagarán en moneda de curso legal" y solo tendrán carácter adicional o complementaria de las remuneraciones en dinero, de acuerdo a lo que establece <abbr title="Deberán señalarse también, en su caso, los beneficios adicionales que suministrará el empleador en forma de casa habitación, luz, combustible, alimento u otras prestaciones en especie o servicios"> el inciso segundo del art. 10</abbr>.
+
+### Por unidad de tiempo o unidad de obra
++ Por unidad de tiempo: se podrá fijar la remuneración por día, semana, quincena o mes, pero en ningún caso la unidad de tiempo excederá el mes.
++ Por unidad de obra: Su monto se regula acorde al número de unidades, piezas, medidas u obras producidas por el trabajador. Es admisible en algunas actividades y en relación co algunas tareas específicas.
+
+### Remuneración fija, variable y esporádica
++ Fija: Es aquella que en forma periódica (semanal, quincenal, mensual) percibe el trabajador. Se caracteriza porque su monto se encuentra preestablecido en el contrato de trabajo.
++ Variable: Aquella cuyo pago queda subordinado al acaecimiento de determinados supuestos, ejemplo de esto son el sobresueldo, participación y gratificación.
++ Esporádica: Estipendio que se otorga especialmente con motivos de la celebración de ciertos acontecimientos, por ejemplo el aguinaldo.

@@ -17,9 +17,11 @@ relacionados:
   - title: "Empleador"
     url: "/lemas/empleador/"
     summary: "la persona natural o jurídica que utiliza los servicios intelectuales o materiales de una o más personas en virtud de un contrato de trabajo."
+
   - title: "Trabajador"
     url: "/lemas/trabajador/"
     summary: "Toda persona natural que preste servicios personales intelectuales o materiales, bajo dependencia o subordinación, y en virtud de un contrato de trabajo."
+    
   - title: "Contrato individual de trabajo"
     url: "/lemas/contrato-individual-de-trabajo/"
     summary: "Convención por la cual el empleador y el trabajador se obligan recíprocamente, este a prestar servicios personales bajo dependencia y subordinación del empleador y aquel a pagar por estos servicios una remuneración determinada."
