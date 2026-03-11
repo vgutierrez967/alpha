@@ -17,9 +17,11 @@ relacionados:
   - title: "Filiación"
     url: "/lemas/filiacion/"
     summary: "Vínculo jurídico que une a los hijos con su padre o madre y que consiste en la relación de parentesco establecida por la ley."
+
   - title: "Estado civil"
     url: "/lemas/estado-civil/"
     summary: "La posición permanente que un individuo ocupa en la sociedad, en orden a sus relaciones de familia, en cuanto le confiere o impone determinados derechos y obligaciones civiles."
+    
   - title: "Familia"
     url: "/lemas/familia/"
     summary: "Conjunto de personas entre las que median relaciones de matrimonio o de parentesco (consanguinidad, afinidad o adopción) a las que la ley atribuye algún efecto jurídico."
