@@ -4,10 +4,10 @@ title: "Albacea"
 ramas: ["civil"]
 
 definiciones:
-### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<em style='color:aqua;'><abbr title=\"Comisión Lenguaje Claro\">pjud.</abbr></em> Persona que el [testador](/lemas/testador/) nombra para que cumpla lo que dispone el [testamento](/lemas/testamento/)."
-  - texto: "<span style='color:aqua;'><em><abbr title=\"Código Civil art. 1270\">C.C.</abbr></em></span> Ejecutores testamentarios o albaceas son aquellos a quienes el [testador](/lemas/testador/) da el encargo de hacer ejecutar sus disposiciones."
 
+  - texto: "<em style='color:aqua;'><abbr title=\"Comisión Lenguaje Claro\">pjud.</abbr></em> Persona que el [testador](/lemas/testador/) nombra para que cumpla lo que dispone el [testamento](/lemas/testamento/)."
+
+  - texto: "<span style='color:aqua;'><em><abbr title=\"Código Civil art. 1270\">C.C.</abbr></em></span> Ejecutores testamentarios o albaceas son aquellos a quienes el [testador](/lemas/testador/) da el encargo de hacer ejecutar sus disposiciones."
 
 relacionados:
 ### Renderizan siempre al final, fichaje manual

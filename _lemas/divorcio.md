@@ -18,9 +18,11 @@ relacionados:
   - title: "Matrimonio"
     url: "/lemas/matrimonio/"
     summary: "Contrato solemne por el cual dos personas se unen con el fin de vivir juntos, procrear y auxiliarse mutuamente."
+
   - title: "Cónyuge"
     url: "/lemas/conyuge/"
-    summary: "Una de las partes del matrimonio."
+    summary: "Persona que se encuentra unida a otra por matrimonio."
+
   - title: "Cese de convivencia"
     url: "/lemas/cese-de-convivencia/"
     summary: "Hecho que da certeza de la fecha de término de la vida en común y que sirve de antecedente para demandar de divorcio o de separación."

@@ -7,6 +7,7 @@ ramas: ["laboral"]
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
   - texto: "<span style='color:aqua;'><em><abbr title=\"Comisión Lenguaje Claro - Código del Trabajo art. 7.o.\">C.T. - pjud.</abbr></em></span> Convención por la cual el [empleador](/lemas/empleador/) y el [trabajador](/lemas/trabajador/) se obligan recíprocamente, este a prestar servicios personales bajo dependencia y subordinación del [empleador](/lemas/empleador/), y aquel a pagar por estos servicios una [remuneración](/lemas/remuneracion/) determinada."
+  
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
 #   ejemplos:
 #     - "Ejemplos bajo definición 2"
@@ -16,10 +17,12 @@ relacionados:
 ### Renderizan siempre al final, fichaje manual
   - title: "Autodespido"
     url: "/lemas/autodespido/"
-    summary: "Derecho que se le concede al trabajador para que este puede, solo en los casos señalados en la ley, solicitar al tribunal que declare terminado el contrato laboral." ### revisar en móvil, aumenta el ancho
+    summary: "Derecho que se le concede al trabajador para que este pueda, solo en los casos señalados en la ley, solicitar al tribunal que declare terminado el contrato laboral."
+
   - title: "Despido"
     url: "/lemas/despido/"
     summary: "Acto por el cual un empleador pone término de forma unilateral a un contrato laboral por alguna causa establecida en la ley laboral."
+    
   - title: "Finiquito"
     url: "/lemas/finiquito/"
     summary: "Documento escrito por medio del cual el empleador y el trabajador, con ocasión del término del contrato de trabajo, dejan constancia tanto de las obligaciones recíprocas que se encuentran cumplidas como aquellas que se encuentran pendientes."
