@@ -13,9 +13,11 @@ relacionados:
   - title: "Albacea"
     url: "/lemas/albacea/"
     summary: "Persona que el testador nombra para que cumpla lo que dispone el testamento."
+
   - title: "Testamento"
     url: "/lemas/testamento/"
     summary: "Acto más o menos solemne, en que una persona dispone del todo o de una parte de sus bienes para que tenga pleno efecto después de sus días."
+    
   - title: "Herencia"
     url: "/lemas/herencia/"
     summary: "Asignación a título universal, todos los bienes, derechos y obligaciones transmisibles del difunto, o una cuota de estos."

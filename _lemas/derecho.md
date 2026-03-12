@@ -6,25 +6,28 @@ latin: "de <em>directus</em>: recto, rígido, alineado."
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em><abbr title=\"en sentido objetivo\">Obj.</abbr></em></span> Conjunto de normas imperativas que regulan la vida en una sociedad determinada."
+  - texto: "<span style='color:aqua;'><em><abbr title=\"en sentido objetivo\">obj.</abbr></em></span> Conjunto de normas imperativas que regulan la vida en una sociedad determinada."
     ejemplos:
       - "[Derecho Civil](/ramas/civil/), [Derecho Penal](/ramas/penal/), etc."
-  - texto: "<em style='color:aqua;'><abbr title=\"en sentido subjetivo\">Subj.</abbr></em> Facultad concedida por el Derecho objetivo a una persona de exigir algo (que otra de, haga o no haga)."
+
+  - texto: "<em style='color:aqua;'><abbr title=\"en sentido subjetivo\">subj.</abbr></em> Facultad concedida por el Derecho objetivo a una persona de exigir algo (que otra de, haga o no haga)."
     ejemplos:
       - "Derecho a la educación, derecho de acceso a la salud, etc."
 # - texto: "<em style='color:aqua;'>Desc.</em> Definición sin ejemplos"
 
 relacionados:
 ### Renderizan siempre al final, fichaje manual
-  - title: "Título 1"
-    url: "/lemas/lema2/"
-    summary: "Definición del tema 1, elección del editor, mantener limitada a 5 o 6 líneas (en la página renderizada)" ### revisar en móvil, aumenta el ancho
-  - title: "Título 2"
-    url: "/lemas/lema3/"
-    summary: "Proin vel lectus eu neque iaculis ultrices eu a neque. Etiam consectetur id arcu id tincidunt. In tincidunt, augue non tristique porttitor."
-  - title: "Título 3"
-    url: "/lemas/lema4/"
-    summary: "Vivamus arcu risus, venenatis eget magna in, ornare ultricies lectus. Aenean ut ipsum vitae risus elementum porta eu id urna. Morbi ut."
+  - title: "Ley"
+    url: "/lemas/ley/"
+    summary: "Regla social obligatoria, establecida de forma permanente por la autoridad pública y sancionada por la fuerza."
+
+  - title: "Costumbre"
+    url: "/lemas/costumbre-juridica/"
+    summary: "Repetición uniforme de un determinado comportamiento colectivo, acompañado de la convicción de que se trata de un comportamiento jurídicamente obligatorio."
+
+  - title: "Principios generales del derecho"
+    url: "/lemas/principios-generales-del-derecho/"
+    summary: "Normas generales y abstractas que sirven de base al ordenamiento jurídico, dándole coherencia, unidad y sistematicidad."
 ---
 
 <!-- Esta sección es opcional, simple texto en markdown-->

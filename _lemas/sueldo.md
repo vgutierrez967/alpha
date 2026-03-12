@@ -34,19 +34,3 @@ relacionados:
 + Periodicidad: Debe pagarse en períodos iguales, no tiene caracter de esporádico.
 + Contractualidad: Su monto es fijado por el acuerdo de voluntades, no por mandato legislativo, sin perjuicio de que la ley establezca el mínimo a pagar.
 + Carácter pecuniario: Es una prestación en dinero, sin perjuicio que también constituya sueldo los beneficios adicionales que suministra el empleador.
-
-<!-- Esta sección es opcional, simple texto en markdown
-### **Críticas**
-
-<em>Autor</em> ha señalado que ...  
-Una línea de pensamiento propone ...
-
-### **Sublemas**
-
-- [Sublema 1](/_lemas/subema/)
-- [Sublema 2](/_lemas/sublema-2/)
-- [Sublema 3](/_lemas/sublema-3/)
-
-### **Sección adicional**
-
-Texto correspondiente a la sección adicional, se puede agregar cualquier contenido compatible con markdown: listas, tablas, links, imágenes, video, etc. -->

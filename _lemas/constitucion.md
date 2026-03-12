@@ -18,10 +18,12 @@ relacionados:
 ### Renderizan siempre al final, fichaje manual
   - title: "Ley"
     url: "/lemas/ley/"
-    summary: "Norma jurídica que emana del poder legislativo siguiendo el proceso establecido en la Constitución." ### revisar en móvil, aumenta el ancho
+    summary: "Norma jurídica que emana del poder legislativo siguiendo el proceso establecido en la Constitución."
+
   - title: "Estado"
     url: "/lemas/estado/"
     summary: "Forma de organización política, dotada de poder soberano e independiente, que integra la población de un territorio."
+    
   - title: "Derechos Fundamentales"
     url: "/lemas/DDFF/"
     summary: "Facultades que pertenecen a todo individuo de la especie humana por el solo hecho de existir como tal, que se vinculan con si dignidad más esencial."

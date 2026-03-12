@@ -14,7 +14,7 @@ definiciones:
 
 
 relacionados:
-### Renderizan siempre al final, fichaje manual
+
   - title: "Contrato individual de trabajo"
     url: "/lemas/contrato-individual-de-trabajo/"
     summary: "Convención por la cual el empleador y el trabajador se obligan recíprocamente, este a prestar servicios personales bajo dependencia y subordinación del empleador, y aquel a pagar por estos servicios una remuneración determinada."

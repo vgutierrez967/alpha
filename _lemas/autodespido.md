@@ -17,9 +17,11 @@ relacionados:
   - title: "Finiquito"
     url: "/lemas/finiquito/"
     summary: "Documento escrito por medio del cual el empleador y el trabajador, con ocasión del término del contrato de trabajo, dejan constancia tanto de las obligaciones recíprocas que se encuentran cumplidas como aquellas que se encuentran pendientes."
+
   - title: "Despido"
     url: "/lemas/despido/"
     summary: "Acto por el cual un empleador pone término de forma unilateral a un contrato laboral por alguna causa establecida en la ley laboral."
+    
   - title: "Contrato individual de trabajo"
     url: "/lemas/contrato-individual-de-trabajo/"
     summary: "Convención por la cual el empleador y el trabajador se obligan recíprocamente, este a prestar servicios personales bajo dependencia y subordinación del empleador, y aquel a pagar por estos servicios una remuneración determinada."

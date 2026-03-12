@@ -6,8 +6,8 @@ ramas: ["civil", "comercial"]
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em><abbr title=\"Acepción genérica\">acep.</abbr></em></span> Repetición uniforme de un determinado comportamiento colectivo, acompañado de la convicción de que se trata de un comportamiento jurídicamente obligatorio."
-    ejemplos: ""
+  - texto: "<span style='color:aqua;'><em><abbr title=\"acepción genérica\">acep.</abbr></em></span> Repetición uniforme de un determinado comportamiento colectivo, acompañado de la convicción de que se trata de un comportamiento jurídicamente obligatorio."
+#   ejemplos: ""
 # - texto: "<em style='color:aqua;'><abbr title=\"Nicolás Coviello\">Coviello</abbr></em> Manifestación de voluntad de una o más personas, cuyas consecuencias jurídicas van encaminadas a realizar el fin práctico de aquellas."
 
 #   ejemplos:
@@ -34,8 +34,9 @@ relacionados:
 
 Para que un acto sea considerado costumbre debe cumplir con un elemento externo y uno interno, también llamados objetivo y subjetivo, respectivamente:
 
-| Elemento objetivo | Repetición uniforme de una conducta determinada |
+|   |   |
 | ---- | ---- |
+| Elemento objetivo | Repetición uniforme de una conducta determinada |
 | Elemento subjetivo | Creencia de que la conducta es obligatoria (<em>opinio iuris</em>) |
 
 A su vez el <strong>elemento objetivo</strong> tiene 4 condiciones:
@@ -49,15 +50,17 @@ A su vez el <strong>elemento objetivo</strong> tiene 4 condiciones:
 
 ### Según el territorio
 
-| Local | en una zona circunscrita del territorio |
+|   |   |
 |---- | ---- |
+| Local | en una zona circunscrita del territorio |
 | General | en todo el territorio de un Estado |
 | Internacional | rige en las relaciones entre Estados |
 
 ### Según su relación con la ley
 
-| Según la ley | es aceptada y reconocida por la ley, permitiendo su uso. |
+|   |   |
 | ---- | ---- |
+| Según la ley | es aceptada y reconocida por la ley, permitiendo su uso. |
 | En silencio o fuera de la ley | llenan vacíos o lagunas de la ley, versan sobre materias no reguladas. |
 | Contra la ley | se oponen a la normativa, son socialmente aceptadas y mantenidas, y rara vez se aceptan en la práctica chilena. |
 

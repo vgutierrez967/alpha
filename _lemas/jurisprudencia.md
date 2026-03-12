@@ -6,13 +6,13 @@ ramas: ["civil","penal","laboral","comercial","administrativo"]
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em><abbr title=\"Por sinonimia\">Sin.</abbr></em></span> [Doctrina](/lemas/doctrina/), ciencia del derecho. Conocimiento desarrollado por juristas y académicos."
+  - texto: "<span style='color:aqua;'><em><abbr title=\"por sinonimia\">sin.</abbr></em></span> [Doctrina](/lemas/doctrina/), ciencia del derecho. Conocimiento desarrollado por juristas y académicos."
 
-  - texto: "<em style='color:aqua;'><abbr title=\"Acepción genérica\">acep.</abbr></em> Criterio reiterado. Conjunto de fallos judiciales que aplican un mismo criterio jurídico para resolver casos similares."
+  - texto: "<em style='color:aqua;'><abbr title=\"acepción genérica\">acep.</abbr></em> Criterio reiterado. Conjunto de fallos judiciales que aplican un mismo criterio jurídico para resolver casos similares."
 #   ejemplos:
 #     - "Ejemplos bajo definición 2"
 
-  - texto: "<em style='color:aqua;'><abbr title=\"Acepción genérica\">acep.</abbr></em> La sentencia como norma jurídica singular, esta acepción es <strong>fuente formal</strong> ya que las sentencias tienen fuerza obligatoria sobre las partes."
+  - texto: "<em style='color:aqua;'><abbr title=\"acepción genérica\">acep.</abbr></em> La sentencia como norma jurídica singular, esta acepción es <strong>fuente formal</strong> ya que las sentencias tienen fuerza obligatoria sobre las partes."
 
 relacionados:
 ### Renderizan siempre al final, fichaje manual

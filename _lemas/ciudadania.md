@@ -5,7 +5,7 @@ ramas: ["constitucional","civil"]
 latin: "<em>cīvitās</em>, ciudad, a su vez de la raíz indoeuropea ḱei-, asentarse"
 
 definiciones:
-### Cantidad ilimitada, ejemplos no necesarios
+
   - texto: "<span style='color:aqua;'><em><abbr title=\"enciclopedia-juridica.com\">E.J.</abbr></em></span> Calidad que posee el habitante de un determinado [Estado](/lemas/estado/) en virtud de la cual goza del efectivo ejercicio de los derechos políticos y soporta el cumplimiento de las obligaciones de igual naturaleza."
 
   - texto: "<em style='color:aqua;'> RAE.</em> Cualidad y derecho de ciudadano."
@@ -13,13 +13,15 @@ definiciones:
   - texto: "<em style='color:aqua;'> RAE.</em> Conjunto de los ciudadanos de un pueblo o nación."
 
 relacionados:
-### Renderizan siempre al final, fichaje manual
+
   - title: "Nacionalidad"
     url: "/lemas/nacionalidad/"
     summary: "Vínculo jurídico que liga a una persona con un Estado determinado."
+
   - title: "Domicilio"
     url: "/lemas/domicilio/"
     summary: "Asiento jurídico de una persona para el ejercicio de sus derechos y el cumplimiento de sus obligaciones."
+    
   - title: "Persona"
     url: "/lemas/persona/"
     summary: "Sujeto de derecho, susceptible de ser titular de derechos y de contraer obligaciones."
