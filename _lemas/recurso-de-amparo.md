@@ -6,7 +6,7 @@ latin: "de <em>anteparāre</em>: poner algo delante para proteger o prevenir"
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em><abbr title=\"Comisión Lenguaje Claro\">pjud.</abbr></em></span> Acción que busca asegurar la libertad de cualquier persona que esté detenida con infracción a la [Constitución](/lemas/constitucion/) o a la ley(/lemas/ley/), o que sufra otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual."
+  - texto: "<span style='color:aqua;'><em><abbr title=\"Comisión Lenguaje Claro\">pjud.</abbr></em></span> Acción que busca asegurar la libertad de cualquier persona que esté detenida con infracción a la [Constitución](/lemas/constitucion/) o a la [ley](/lemas/ley/), o que sufra otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual."
 
   - texto: "<em style='color:aqua;'><abbr title=\"Comisión Lenguaje Claro\">pjud.</abbr></em> Acción que otorga la [Constitución Política de la República](/lemas/constitucion/) a toda persona que se considere que ha sido ilegalmente privada de libertad para que la Corte de Apelaciones revise el caso y determine si su privación de libertad es legal o no."
 ### Agregar una más
