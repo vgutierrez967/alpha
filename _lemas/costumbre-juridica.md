@@ -69,19 +69,3 @@ A su vez el <strong>elemento objetivo</strong> tiene 4 condiciones:
 + En materia civil solo se aplica la costumbre <em>según la ley</em>, según lo consagra el artículo 2 del <span title="Código Civil">C.C.</span>:<em>"la costumbre no constituye derecho sino en los casos en que la ley se remita a ella"</em>.
 + En materia mercantil se amplía el valor de la costumbre, incluyendo la costumbre fuera de la ley en el artículo 4 del <span title="Código de Comercio">C.Co</span>:<em>"Las costumbres mercantiles suplen el silencio de la ley..."</em> y determinando los medios de prueba en el artículo 5.
 + En materia penal la costumbre no tiene valor debido al [principio de legalidad](/lemas/principios-generales-del-derecho/), en las demás ramas no se ha legislado su valor.
-<!-- Esta sección es opcional, simple texto en markdown
-### **Críticas**
-
-<em>Autor</em> ha señalado que ...  
-Una línea de pensamiento propone ...
-
-### **Sublemas**
-
-- [Sublema 1](/_lemas/subema/)
-- [Sublema 2](/_lemas/sublema-2/)
-- [Sublema 3](/_lemas/sublema-3/)
-
-### **Sección adicional**
-
-Texto correspondiente a la sección adicional, se puede agregar cualquier contenido compatible con markdown: listas, tablas, links, imágenes, video, etc.
--->
