@@ -6,14 +6,14 @@ latin: "<em>dolorem, ipsum</em>" ### Orígen etimológico, eliminar si no aplica
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em>Desc.</em></span> Definición 1"
+  - texto: "<span style='color:aqua;'><em><abbr title\"descripción\">Desc.</abbr></em></span> Definición 1"
     ejemplos:
       - "Ejemplo(s) bajo definición 1"
-  - texto: "<em style='color:aqua;'>Desc.</em> Definición 2"
+  - texto: "<em style='color:aqua;'><abbr title\"descripción\">Desc.</abbr></em> Definición 2"
 
     ejemplos:
       - "Ejemplos bajo definición 2"
-  - texto: "<em style='color:aqua;'>Desc.</em> Definición sin ejemplos"
+  - texto: "<em style='color:aqua;'><abbr title\"descripción\">Desc.</abbr></em> Definición sin ejemplos"
 
 
 relacionados:

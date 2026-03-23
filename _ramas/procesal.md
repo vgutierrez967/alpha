@@ -11,7 +11,8 @@ permalink: /ramas/procesal/
     <div style="width:-2rem; height:2rem; background:#ffffff; color:white; border-radius:999px; display:flex; align-items:center; justify-content:center; font-weight:700; margin-right:0.75rem;">
     </div>
     <div>
-      Aún no tenemos una definición para Derecho Procesal, si quieres aportar con una, escríbenos por instagram a  <a href="https://www.instagram.com/ddch.uss">@ddch.uss</a>.
+    <p style="text-align: justify">  "La ciencia jurídica cuyo objeto es el estudio sistemático de las normas, principios e instituciones que regulan el ejercicio del poder jurisdiccional del Estado." </p>
+    <p style="text-align: right"><em>-Hugo Pereira Anabalón.</em></p>
     </div>
   </div>
 </div>
