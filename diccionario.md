@@ -13,11 +13,11 @@ permalink: /diccionario/
   {% endfor %}
 </ul>
 
-## Latinismos
+## Aforismos
 
 <ul>
-  {% assign latinismos_pages = site.latinismos | sort: "title" %}
-  {% for r in latinismos_pages %}
+  {% assign aforismos_pages = site.aforismos | sort: "title" %}
+  {% for r in aforismos_pages %}
     <li><a href="{{ r.url | relative_url }}"><em>{{ r.title }}</em></a></li>
   {% endfor %}
 </ul>  

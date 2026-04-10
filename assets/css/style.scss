@@ -376,20 +376,20 @@ p {
 
 
 
-/* Fix de latinismos en cursiva */
+/* Fix de aforismos en cursiva */
 
-body.collection-latinismos h1,
-body.collection-latinismos h2,
-body.collection-latinismos .page-title {
+body.collection-aforismos h1,
+body.collection-aforismos h2,
+body.collection-aforismos .page-title {
   font-style: italic;
 }
 
 
-/* Safeguard para latinismos en cursiva
+/* Safeguard para aforismos en cursiva
 
-.collection-latinismos .page-title,
-.collection-latinismos h1.term,
-.search-result .latinismo {
+.collection-aforismos .page-title,
+.collection-aforismos h1.term,
+.search-result .aforismo {
   font-style: italic;
 }
 

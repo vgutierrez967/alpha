@@ -14,9 +14,9 @@ collections:
   ramas:
     output: true
     permalink: /ramas/:title/
-  latinismos:
+  aforismos:
     output: true
-    permalink: /latinismos/:title/
+    permalink: /aforismos/:title/
   recursos:
     output: true
     permalink: /recursos/:title/

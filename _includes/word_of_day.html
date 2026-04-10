@@ -8,7 +8,7 @@
     <div class="word-box">
       <h2 class="label"><strong>LEMA DEL DÍA</strong></h2>
       <h3 class="term">
-        {% if today_term.collection == "latinismos" %}
+        {% if today_term.collection == "aforismos" %}
           <em>“{{ today_term.title }}”</em>
         {% else %}
           “{{ today_term.title }}”
@@ -16,8 +16,7 @@
       </h3>
       
       {% if today_term.definiciones %}
-        {% assign definition_text = today_term.definiciones[0].texto
-          | default: today_term.definiciones[0] | strip %}
+        {% assign definition_text = today_term.definiciones[0].texto | default: today_term.definiciones[0] | strip %}
         {% if definition_text != "" %}
           {% assign rendered = definition_text
             | markdownify
@@ -25,7 +24,7 @@
             | replace: '</a>', '</span>' %}
           {{ rendered | replace_first: '<p>', '<p class="definition">' }}
         {% endif %}
-      {% endif %}
+      {% endif %}a
 
       <div class="meta">
         <span class="date">
