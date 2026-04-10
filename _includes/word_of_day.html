@@ -1,5 +1,5 @@
 <section class="word-of-day">
-  {% assign terms = site.lemas | concat: site.ramas | concat: site.latinismos %}
+  {% assign terms = site.lemas | concat: site.ramas | concat: site.aforismos %}
   {% assign day_of_year = site.time | date: "%j" | plus: 0 %}
   {% if terms and terms.size > 0 %}
     {% assign index = day_of_year | modulo: terms.size %}
