@@ -30,17 +30,13 @@ relacionados:
 ---
 
 <!-- Esta sección es opcional, simple texto en markdown-->
-### **Críticas**
+### **Pronunciación**
 
 <em>Autor</em> ha señalado que ...  
 Una línea de pensamiento propone ...
 
-### **Sublemas**
+### **Reseña histórica**
 
 - [Sublema 1](/_lemas/subema/)
 - [Sublema 2](/_lemas/sublema-2/)
 - [Sublema 3](/_lemas/sublema-3/)
-
-### **Sección adicional**
-
-Texto correspondiente a la sección adicional, se puede agregar cualquier contenido compatible con markdown: listas, tablas, links, imágenes, video, etc.

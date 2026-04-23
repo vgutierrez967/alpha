@@ -6,6 +6,8 @@ ramas: ["civil"]
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
+  - texto: "<span style='color:aqua;'><em><abbr title=\"Juan Andrés Varas\">Varas</abbr></em></span> Acto ilocucionario de lenguaje, legalmente regulado, y cuyos efectos jurídicos realizan el fin práctico querido por su(s) autor(es)"
+
   - texto: "<span style='color:aqua;'><em><abbr title=\"Federico de Castro y Bravo\">de Castro</abbr></em></span> La declaración o acuerdo de voluntades con que los particulares se proponen conseguir un resultado que el derecho estima digno de su especial tutela, sea en base sólo a dicha declaración o acuerdo, sea completada con otros hechos o actos."
 
   - texto: "<em style='color:aqua;'><abbr title=\"Nicolás Coviello\">Coviello</abbr></em> Manifestación de voluntad de una o más personas, cuyas consecuencias jurídicas van encaminadas a realizar el fin práctico de aquellas."

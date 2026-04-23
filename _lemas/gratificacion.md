@@ -32,7 +32,7 @@ relacionados:
 
 ## Tipos de Gratificación
 
-+ Legal: De pago anual, correspondiente al 30% de las utilidades líquidas, queda eximido de la obligación el empleador que opte por abonar 25% de ki devengado en el ejercicio comercial mensualmente.
++ Legal: De pago anual, correspondiente al 30% de las utilidades líquidas, queda eximido de la obligación el empleador que opte por abonar 25% de lo devengado en el ejercicio comercial mensualmente.
 + Convencional: Gratificación estipulada en los contratos individuales o instrumentos colectivos, existen 2 tipos:
   + Garantizada: Se otorga independiente de que se obtengan o no utilidades en el ejercicio financiero.
   + No garantizada: Aquella que está sujeta a la eventualidad de que la empresa obtenga utilidades líquidas en el respectivo ejercicio financiero.
