@@ -53,7 +53,7 @@ De acuerdo con el art. 54 del <span title="Código del Trabajo">C.T.</span> las 
 
 ### Por unidad de tiempo o unidad de obra
 + Por unidad de tiempo: se podrá fijar la remuneración por día, semana, quincena o mes, pero en ningún caso la unidad de tiempo excederá el mes.
-+ Por unidad de obra: Su monto se regula acorde al número de unidades, piezas, medidas u obras producidas por el trabajador. Es admisible en algunas actividades y en relación co algunas tareas específicas.
++ Por unidad de obra: Su monto se regula acorde al número de unidades, piezas, medidas u obras producidas por el trabajador. Es admisible en algunas actividades y en relación con algunas tareas específicas.
 
 ### Remuneración fija, variable y esporádica
 + Fija: Es aquella que en forma periódica (semanal, quincenal, mensual) percibe el trabajador. Se caracteriza porque su monto se encuentra preestablecido en el contrato de trabajo.

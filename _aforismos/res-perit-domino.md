@@ -1,20 +1,12 @@
 ---
 layout: lema
-title: "Lorem ipsum"
-ramas: ["tag-1","tag-2"]
-latin: "<em>dolorem, ipsum</em>" 
+title: "Res perit domino"
+ramas: ["civil"]
+latin: "<em>La cosa perece para el dueño</em>" 
 
 definiciones:
 ### Cantidad ilimitada, ejemplos no necesarios
-  - texto: "<span style='color:aqua;'><em><abbr title=\"Abreviatura\">Abr.</abbr></em></span> Definición 1"
-    ejemplos:
-      - "Ejemplo(s) bajo definición 1"
-  - texto: "<em style='color:aqua;'><abbr title=\"Abreviatura\">Abr.</abbr></em> Definición 2"
-
-    ejemplos:
-      - "Ejemplos bajo definición 2"
-  - texto: "<em style='color:aqua;'><abbr title=\"Abreviatura\">Abr.</abbr></em> Definición sin ejemplos"
-
+  - texto: "<span style='color:aqua;'><em><abbr title=\"Acepción\">Acep.</abbr></em></span> Principio del derecho privado romano y característica de la mayoría de los sistemas de derecho civil que indica que es el propietario quien asyme el riesgo de daño o pérdida de su propiedad y que solo será exigible la reparación a un tercero en tanto hayan motivos legales justificados."
 
 relacionados:
 ### Renderizan siempre al final, fichaje manual
@@ -30,13 +22,6 @@ relacionados:
 ---
 
 <!-- Esta sección es opcional, simple texto en markdown-->
-### **Pronunciación**
+### **Otras formas**
 
-<em>Autor</em> ha señalado que ...  
-Una línea de pensamiento propone ...
-
-### **Reseña histórica**
-
-- [Sublema 1](/_lemas/subema/)
-- [Sublema 2](/_lemas/sublema-2/)
-- [Sublema 3](/_lemas/sublema-3/)
+Se puede entontrar también como <em>casum sentit dominus</em> donde "casum" se refiere a "caída" o "accidente", significando más o menos "el propietario sufre el riesgo/accidente".
